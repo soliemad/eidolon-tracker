@@ -1,0 +1,40 @@
+{
+  "name": "eidolon-tracker",
+  "version": "0.0.1",
+  "main": "electron/main.cjs",
+  "author": "Madness",
+  "description": "A tracker tool for Eidolons in Aurora Kigndom",
+  "build": {
+    "appId": "com.madness.eidolontracker",
+    "productName": "Eidolon Tracker",
+    "icon": "./icon.png",
+    "directories": {
+      "output": "dist-electron"
+    },
+    "files": [
+      "dist/",
+      "electron/"
+    ],
+    "asar": true,
+    "win": {
+      "target": ["portable"]
+    }
+  },
+  "scripts": {
+    "dev": "vite",
+    "electron": "npx electron electron/main.cjs",
+    "build": "vite build",
+    "build:electron": "npm run build && electron-builder"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.7",
+    "bootstrap-vue-next": "^0.30.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.4",
+    "electron": "^37.1.0",
+    "unplugin-vue-components": "^28.7.0",
+    "vite": "^6.3.5",
+    "vite-plugin-vue-devtools": "^7.7.7"
+  }
+}
