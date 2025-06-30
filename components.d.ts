@@ -12,8 +12,6 @@ declare module 'vue' {
     BAccordionItem: typeof import('bootstrap-vue-next/components/BAccordion')['BAccordionItem']
     BButton: typeof import('bootstrap-vue-next/components/BButton')['BButton']
     BCard: typeof import('bootstrap-vue-next/components/BCard')['BCard']
-    BCardBody: typeof import('bootstrap-vue-next/components/BCard')['BCardBody']
-    BCardHeader: typeof import('bootstrap-vue-next/components/BCard')['BCardHeader']
     BContainer: typeof import('bootstrap-vue-next/components/BContainer')['BContainer']
     BForm: typeof import('bootstrap-vue-next/components/BForm')['BForm']
     BFormCheckbox: typeof import('bootstrap-vue-next/components/BFormCheckbox')['BFormCheckbox']
