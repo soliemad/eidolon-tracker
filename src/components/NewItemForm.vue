@@ -48,7 +48,6 @@ const emit = defineEmits(["ok", "close"]);
             required
           />
         </BFormGroup>
-        <BButton type="submit" variant="primary">Add Item</BButton>
       </div>
     </BModal>
   </BForm>
