@@ -23,7 +23,7 @@ const isComplete = computed(() => {
 });
 </script>
 <template>
-  <BAccordionItem class="eidolon m-2" :class="{ 'unowned': !eidolonStorage.owned, complete: isComplete }">
+  <BAccordionItem class="eidolon m-2 border rounded" :class="{ 'unowned': !eidolonStorage.owned, complete: isComplete }">
     <template #title>
       <EidolonHeader
         :data="eidolon"
@@ -42,5 +42,8 @@ const isComplete = computed(() => {
 }
 .complete {
   box-shadow:  0 0 10px 5px var(--bs-primary);
+}
+.eidolon :deep(.accordion-button) {
+  border-radius: var(--bs-accordion-inner-border-radius);
 }
 </style>
