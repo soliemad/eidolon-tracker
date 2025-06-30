@@ -6,6 +6,7 @@ import EidolonList from "./components/EidolonList.vue";
 
 <template>
   <BContainer data-bs-theme="dark">
+    <BModalOrchestrator/>
     <EidolonList />
   </BContainer>
 </template>

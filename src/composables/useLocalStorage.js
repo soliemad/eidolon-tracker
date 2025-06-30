@@ -1,14 +1,48 @@
-import {ref, watch} from 'vue';
-export const useLocalStorage = (key, refObject) => {
-    try {
-        refObject.value = JSON.parse(localStorage.getItem(key)) || refObject.value;
-    } catch (error) {
-        console.log(error);
-    }
+import { ref, watch } from 'vue';
+// Module-level map to cache eidolon storage by key
+const eidolonStorageMap = new Map();
 
-    const watchHandle = watch(refObject, () => {
-        localStorage.setItem(key, JSON.stringify(refObject.value));
+export const useLocalStorage = (eidolonObject) => {
+    const storageKey = `eidolon-data-${eidolonObject.name}`;
+    if (eidolonStorageMap.has(storageKey)) {
+        return { eidolonStorage: eidolonStorageMap.get(storageKey) };
+    }
+    const storage = ref({
+        "owned": false,
+        "nickname": "",
+        "symbol": 140,
+        "materials": [],
+        "wishes": []
+    });
+    if (localStorage.getItem(storageKey)) {
+        storage.value = JSON.parse(localStorage.getItem(storageKey));
+    } else {
+        eidolonObject.materials.forEach((material, index) => {
+            storage.value.materials[index] = createEmptyMaterial(material.items.length);
+        });
+        eidolonObject.wishes.forEach((wish, index) => {
+            storage.value.wishes[index] = createEmptyWish(wish.items.length);
+        });
+    }
+    watch(storage, () => {
+        localStorage.setItem(storageKey, JSON.stringify(storage.value));
     }, { deep: true });
 
-    return { watchHandle };
+    eidolonStorageMap.set(storageKey, storage);
+    return { eidolonStorage: storage };
+};
+const createEmpyuItem = () => {
+    return {
+        "selected": false
+    };
+};
+const createEmptyMaterial = (itemCount) => {
+    return {
+        "items": new Array(itemCount).fill(createEmpyuItem()),
+    };
+};
+const createEmptyWish = (itemCount) => {
+    return {
+        "items": new Array(itemCount).fill(createEmpyuItem()),
+    };
 };

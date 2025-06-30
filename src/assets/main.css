@@ -1,5 +1,5 @@
 @import "./base.css";
-:root {
+/* :root {
  --vt-c-black: #1a1c22;
   --vt-c-text-dark-2: #e3e3f3;
   --vt-c-divider-dark-1: #c9a8ff;
@@ -8,18 +8,17 @@
   --green: #b4ffb4;
   --gray-out: #888;
   --bar-bg: #444;
-}
-@media (prefers-color-scheme: mira) {
-  :root {
-    --color-background: #1a1c22;
+
+      --color-background: #1a1c22;
     --color-background-soft: var(--vt-c-black-soft);
     --color-background-mute: var(--vt-c-black-mute);
     --color-border: var(--vt-c-divider-dark-2);
     --color-border-hover: var(--vt-c-divider-dark-1);
     --color-heading: var(--vt-c-text-dark-1);
     --color-text: var(--vt-c-text-dark-2);
-  }
-}
+} */
+
+
 /* 
     :root {
       --bg: #1a1c22;

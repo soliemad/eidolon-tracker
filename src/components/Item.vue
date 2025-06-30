@@ -1,8 +1,16 @@
 <script setup>
-
+import ImageBrowser from "./ImageBrowser.vue";
+const props = defineProps({
+  data: {
+    type: Object,
+    required: true,
+  },
+});
+import { inject } from "vue";
+const editMode = inject("editMode");
 const item = defineModel({
-  required: true,
   type: Object,
+  required: true,
 });
 const emit = defineEmits(["update:modelValue"]);
 const toggleValue = () => {
@@ -13,9 +21,11 @@ const toggleValue = () => {
   <div class="d-flex flex-column">
     <BButton role="button" variant="link" @click="toggleValue">
       <div class="position-relative">
+        <ImageBrowser v-if="editMode" v-model="data.thumbnail" />
         <img
+          v-else
           width="50px"
-          :src="item.thumbnail"
+          :src="data.thumbnail"
           :class="[
             {
               'border border-3 border-success': item.selected,
@@ -23,16 +33,16 @@ const toggleValue = () => {
           ]"
         />
         <span class="item-count position-absolute bottom-0 start-90">{{
-          item.count
+          data.count
         }}</span>
       </div>
     </BButton>
-    <span class="item-name text-wrap text-center">{{ item.name }}</span>
+    <span class="item-name text-wrap text-center">{{ data.name }}</span>
   </div>
 </template>
 <style scoped>
 .item-name {
-    max-width: 100px;
+  max-width: 100px;
 }
 .item-count {
   color: #fff;
