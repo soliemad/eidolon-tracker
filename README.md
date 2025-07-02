@@ -1,5 +1,5 @@
 # Eidolon Tracker 
-A tracker tool for Eidolons in Aurora Kingdom
+A tracker tool for Eidolons in Aura Kingdom
 
 ## Recommended IDE Setup
 
