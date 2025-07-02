@@ -40,6 +40,11 @@ const isComplete = computed(() => {
 .unowned {
   opacity: 0.5;
 }
+.unowned :deep(.accordion-body) {
+  pointer-events: none;
+  cursor: not-allowed;
+  user-select: none;
+}
 .complete {
   box-shadow:  0 0 10px 5px var(--bs-primary);
 }

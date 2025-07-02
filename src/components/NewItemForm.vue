@@ -1,4 +1,5 @@
 <script setup>
+import itemList from "../assets/items.json";
 const shown = defineModel("shown", {
   type: Boolean,
   default: false,

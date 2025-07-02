@@ -1,16 +1,34 @@
 <script setup>
 import ImageBrowser from "./ImageBrowser.vue";
 const props = defineProps({
-  data: {
+  eidolonData: {
     type: Object,
     required: true,
   },
 });
-import { inject } from "vue";
+import { computed, inject } from "vue";
+import items from "../assets/items.json";
+import itemsTW from "../assets/items-tw.json";
 const editMode = inject("editMode");
 const item = defineModel({
   type: Object,
   required: true,
+});
+const data = computed(() => {
+  const itemData = items[props.eidolonData.id];
+  if (!itemData) {
+    const itemDataTW = itemsTW[props.eidolonData.id];
+    if (itemDataTW) {
+      return itemDataTW;
+    } else {
+      console.warn(new Error(`Item with id ${props.eidolonData.id} not found`));
+      return {
+        id: props.eidolonData.id,
+        name: "Unknown Item",
+      };
+    }
+  }
+  return itemData;
 });
 const emit = defineEmits(["update:modelValue"]);
 const toggleValue = () => {
@@ -25,7 +43,7 @@ const toggleValue = () => {
         <img
           v-else
           width="50px"
-          :src="data.thumbnail"
+          :src="`image/items/${data.id}.png`"
           :class="[
             {
               'border border-3 border-success': item.selected,

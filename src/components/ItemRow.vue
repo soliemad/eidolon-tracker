@@ -36,7 +36,7 @@ const onCreateNewItem = (item) => {
       v-for="(item, index) in items"
       :key="index"
     >
-      <Item v-model="items[index]" :data="data[index]" />
+      <Item v-model="items[index]" :eidolon-data="data[index]" />
     </div>
     <div v-if="editMode" class="d-flex flex-column align-items-center me-1" role="button" @click="newItemPopup = true">
       <div

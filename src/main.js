@@ -6,10 +6,10 @@ import App from './App.vue'
 import {createBootstrap} from 'bootstrap-vue-next'
 
 import { library } from "@fortawesome/fontawesome-svg-core";
-import { faPenToSquare, faImage } from "@fortawesome/free-solid-svg-icons";
+import { faPenToSquare, faImage, faGear, faPlus, faFileExport, faFileImport } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
-library.add(faPenToSquare, faImage);
+library.add(faPenToSquare, faImage, faGear, faPlus, faFileExport, faFileImport);
 
 // Add the necessary CSS
 import './assets/main.css'

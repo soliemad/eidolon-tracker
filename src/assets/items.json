@@ -1,0 +1,5186 @@
+{
+  "10343": {
+    "name": "Fearless Hat",
+    "id": 10343
+  },
+  "10344": {
+    "name": "Fearless Light Armor",
+    "id": 10344
+  },
+  "10345": {
+    "name": "Fearless Gauntlets",
+    "id": 10345
+  },
+  "10346": {
+    "name": "Fearless Leggings",
+    "id": 10346
+  },
+  "10348": {
+    "name": "Ambusher Leather Hat",
+    "id": 10348
+  },
+  "10349": {
+    "name": "Ambusher Leather Armor",
+    "id": 10349
+  },
+  "10351": {
+    "name": "Ambusher Ankle Boots",
+    "id": 10351
+  },
+  "10352": {
+    "name": "Ambusher Leather Belt",
+    "id": 10352
+  },
+  "10353": {
+    "name": "Noripan's Emerald Leaf",
+    "id": 10353
+  },
+  "10354": {
+    "name": "Fia's Brilliant Fairy Dust",
+    "id": 10354
+  },
+  "10355": {
+    "name": "Kayel's Solar Core",
+    "id": 10355
+  },
+  "10356": {
+    "name": "Requiem Headguard",
+    "id": 10356
+  },
+  "10357": {
+    "name": "Requiem Light Armor",
+    "id": 10357
+  },
+  "10358": {
+    "name": "Requiem Wristguards",
+    "id": 10358
+  },
+  "10359": {
+    "name": "Requiem Leggings",
+    "id": 10359
+  },
+  "10360": {
+    "name": "Requiem Sash",
+    "id": 10360
+  },
+  "10361": {
+    "name": "Aria Cap",
+    "id": 10361
+  },
+  "10362": {
+    "name": "Aria Coat",
+    "id": 10362
+  },
+  "10363": {
+    "name": "Aria Wrist Wraps",
+    "id": 10363
+  },
+  "10364": {
+    "name": "Aria Ankle Boots",
+    "id": 10364
+  },
+  "10365": {
+    "name": "Aria Sash",
+    "id": 10365
+  },
+  "10366": {
+    "name": "Argus's Dragon Heart",
+    "id": 10366
+  },
+  "10367": {
+    "name": "Toto's Cursed Tusk",
+    "id": 10367
+  },
+  "10368": {
+    "name": "Asheara's Magicked Scale",
+    "id": 10368
+  },
+  "10369": {
+    "name": "Titan Warrior Headgear",
+    "id": 10369
+  },
+  "10370": {
+    "name": "Titan Warrior Battle Coat",
+    "id": 10370
+  },
+  "10371": {
+    "name": "Titan Warrior Gauntlets",
+    "id": 10371
+  },
+  "10372": {
+    "name": "Titan Warrior Battle Boots",
+    "id": 10372
+  },
+  "10373": {
+    "name": "Titan Warrior Waist Armor",
+    "id": 10373
+  },
+  "10374": {
+    "name": "Revelation Head Ornament",
+    "id": 10374
+  },
+  "10375": {
+    "name": "Revelation Light Armor",
+    "id": 10375
+  },
+  "10376": {
+    "name": "Revelation Gauntlets",
+    "id": 10376
+  },
+  "10377": {
+    "name": "Revelation Long Boots",
+    "id": 10377
+  },
+  "10378": {
+    "name": "Revelation Belt",
+    "id": 10378
+  },
+  "10379": {
+    "name": "Hood of the Devourer",
+    "id": 10379
+  },
+  "10380": {
+    "name": "Coat of the Devourer",
+    "id": 10380
+  },
+  "10381": {
+    "name": "Wrist Wraps of the Devourer",
+    "id": 10381
+  },
+  "10382": {
+    "name": "Boots of the Devourer",
+    "id": 10382
+  },
+  "10383": {
+    "name": "Sash of the Devourer",
+    "id": 10383
+  },
+  "10384": {
+    "name": "Malodnak's Dark Claw",
+    "id": 10384
+  },
+  "10385": {
+    "name": "Talen's Bloodthirsty Gem",
+    "id": 10385
+  },
+  "10386": {
+    "name": "Murfeo's Immortal Oath",
+    "id": 10386
+  },
+  "10387": {
+    "name": "Caroline's Intent",
+    "id": 10387
+  },
+  "10388": {
+    "name": "Talamund's Soul",
+    "id": 10388
+  },
+  "10393": {
+    "name": "Blue Eagle Pistols",
+    "id": 10393
+  },
+  "10395": {
+    "name": "Secret Book of the Giant Dragon",
+    "id": 10395
+  },
+  "10403": {
+    "name": "The Book of Seven Butterflies",
+    "id": 10403
+  },
+  "10472": {
+    "name": "Ancient Mask of the Dark Occultist",
+    "id": 10472
+  },
+  "10473": {
+    "name": "Ancient Thunder God's Soul Crystal",
+    "id": 10473
+  },
+  "10479": {
+    "name": "Cyan Iron Ore",
+    "id": 10479
+  },
+  "10480": {
+    "name": "Silver Star Stone",
+    "id": 10480
+  },
+  "10481": {
+    "name": "Kyanite",
+    "id": 10481
+  },
+  "10482": {
+    "name": "Cuprite",
+    "id": 10482
+  },
+  "10483": {
+    "name": "Star Obsidian",
+    "id": 10483
+  },
+  "10484": {
+    "name": "Molten Steel Stone",
+    "id": 10484
+  },
+  "10485": {
+    "name": "Purple Gold Ore",
+    "id": 10485
+  },
+  "10486": {
+    "name": "Firefly Star Stone",
+    "id": 10486
+  },
+  "10487": {
+    "name": "Diamond",
+    "id": 10487
+  },
+  "10488": {
+    "name": "Amethyst",
+    "id": 10488
+  },
+  "10489": {
+    "name": "Red Agate",
+    "id": 10489
+  },
+  "10490": {
+    "name": "Malachite",
+    "id": 10490
+  },
+  "10491": {
+    "name": "Luminous Emerald",
+    "id": 10491
+  },
+  "10492": {
+    "name": "Ancient Amber",
+    "id": 10492
+  },
+  "10493": {
+    "name": "Blood Coral",
+    "id": 10493
+  },
+  "10494": {
+    "name": "Tiger's Eye Pearl",
+    "id": 10494
+  },
+  "10495": {
+    "name": "Jade from the Deep",
+    "id": 10495
+  },
+  "10496": {
+    "name": "Jade Lazuli",
+    "id": 10496
+  },
+  "10497": {
+    "name": "Eternal Blood Vine Flower",
+    "id": 10497
+  },
+  "10498": {
+    "name": "Grassy Green Rhinestone",
+    "id": 10498
+  },
+  "10499": {
+    "name": "Rosegold Powder",
+    "id": 10499
+  },
+  "10500": {
+    "name": "Lava Alloy",
+    "id": 10500
+  },
+  "10501": {
+    "name": "Magnetic Alloy",
+    "id": 10501
+  },
+  "10502": {
+    "name": "Corrosive Alloy",
+    "id": 10502
+  },
+  "10503": {
+    "name": "Solid Alloy",
+    "id": 10503
+  },
+  "10504": {
+    "name": "Electrochemical Alloy",
+    "id": 10504
+  },
+  "10505": {
+    "name": "Magical Force Alloy",
+    "id": 10505
+  },
+  "10506": {
+    "name": "Crystal Circuit Alloy",
+    "id": 10506
+  },
+  "10507": {
+    "name": "Refined Blade Core",
+    "id": 10507
+  },
+  "10508": {
+    "name": "Refined Falcon Core",
+    "id": 10508
+  },
+  "10509": {
+    "name": "Refined Elemental Core",
+    "id": 10509
+  },
+  "10511": {
+    "name": "Ritual Armor Core",
+    "id": 10511
+  },
+  "10515": {
+    "name": "Ritual Trophy Core",
+    "id": 10515
+  },
+  "10516": {
+    "name": "Refined Suppression Core",
+    "id": 10516
+  },
+  "10517": {
+    "name": "Refined Targeting Core",
+    "id": 10517
+  },
+  "10518": {
+    "name": "Refined Magical Core",
+    "id": 10518
+  },
+  "10519": {
+    "name": "Lunar Helmet Core",
+    "id": 10519
+  },
+  "10520": {
+    "name": "Lunar Armor Core",
+    "id": 10520
+  },
+  "10521": {
+    "name": "Lunar Wrist Core",
+    "id": 10521
+  },
+  "10522": {
+    "name": "Lunar Boot Core",
+    "id": 10522
+  },
+  "10524": {
+    "name": "Lunar Trophy Core",
+    "id": 10524
+  },
+  "11030": {
+    "name": "Glimmering Secret Stone",
+    "id": 11030
+  },
+  "11031": {
+    "name": "Shining Secret Stone",
+    "id": 11031
+  },
+  "11032": {
+    "name": "Flawless Secret Stone",
+    "id": 11032
+  },
+  "11033": {
+    "name": "Immaculate Secret Stone",
+    "id": 11033
+  },
+  "11045": {
+    "name": "Small Experience Crystal",
+    "id": 11045
+  },
+  "11049": {
+    "name": "Eidolon Energy Crystal",
+    "id": 11049
+  },
+  "11050": {
+    "name": "Golden Globe",
+    "id": 11050
+  },
+  "11051": {
+    "name": "Astral Orb",
+    "id": 11051
+  },
+  "11052": {
+    "name": "Chain of Rebirth",
+    "id": 11052
+  },
+  "11053": {
+    "name": "Malachite Karma Bead",
+    "id": 11053
+  },
+  "11054": {
+    "name": "Sharp Fang",
+    "id": 11054
+  },
+  "11055": {
+    "name": "Runed Bloodgem",
+    "id": 11055
+  },
+  "11056": {
+    "name": "Plumed Ring",
+    "id": 11056
+  },
+  "11057": {
+    "name": "Smiting Stone",
+    "id": 11057
+  },
+  "11058": {
+    "name": "License to Kill",
+    "id": 11058
+  },
+  "11071": {
+    "name": "BBQ Snail Skewer",
+    "id": 11071
+  },
+  "11072": {
+    "name": "Fruit Jam Toast",
+    "id": 11072
+  },
+  "11075": {
+    "name": "Flower Biscuit",
+    "id": 11075
+  },
+  "11076": {
+    "name": "Clark's Fresh Milk",
+    "id": 11076
+  },
+  "11080": {
+    "name": "Spicy Grilled Lamb Rib",
+    "id": 11080
+  },
+  "11084": {
+    "name": "Beary Refreshing Drink",
+    "id": 11084
+  },
+  "11085": {
+    "name": "Miracle Lunchbox",
+    "id": 11085
+  },
+  "11088": {
+    "name": "Oasis Beer",
+    "id": 11088
+  },
+  "11090": {
+    "name": "Miracle Mineral Water",
+    "id": 11090
+  },
+  "11091": {
+    "name": "Protein Pack",
+    "id": 11091
+  },
+  "11096": {
+    "name": "Murky Coffee",
+    "id": 11096
+  },
+  "11097": {
+    "name": "Ventos Special Steak",
+    "id": 11097
+  },
+  "11100": {
+    "name": "Dark Beer",
+    "id": 11100
+  },
+  "11105": {
+    "name": "Frosted Macaron",
+    "id": 11105
+  },
+  "11106": {
+    "name": "Navea Special Roast Tea",
+    "id": 11106
+  },
+  "11108": {
+    "name": "Violet Blessing",
+    "id": 11108
+  },
+  "11117": {
+    "name": "Merrilee's Loving Gaze",
+    "id": 11117
+  },
+  "11118": {
+    "name": "Merrilee's Loving Protection",
+    "id": 11118
+  },
+  "11126": {
+    "name": "Sigrun's Grips",
+    "id": 11126
+  },
+  "11127": {
+    "name": "Sigrun's Strong Gaiters",
+    "id": 11127
+  },
+  "11128": {
+    "name": "Sigrun's Belt of Protection",
+    "id": 11128
+  },
+  "11130": {
+    "name": "Caroline's Step of Wind",
+    "id": 11130
+  },
+  "11132": {
+    "name": "Leo's Glorious Heart",
+    "id": 11132
+  },
+  "11134": {
+    "name": "Leo's Cloak of Kings",
+    "id": 11134
+  },
+  "11135": {
+    "name": "Necklace of Comets",
+    "id": 11135
+  },
+  "11136": {
+    "name": "Ring of Comets",
+    "id": 11136
+  },
+  "11137": {
+    "name": "Cloak of Comets",
+    "id": 11137
+  },
+  "11139": {
+    "name": "Nazrudin's Freezing Band",
+    "id": 11139
+  },
+  "11155": {
+    "name": "Gigas's Key of Gaia",
+    "id": 11155
+  },
+  "11156": {
+    "name": "Aelius's Key of Gaia",
+    "id": 11156
+  },
+  "11157": {
+    "name": "Abraxas's Key of Gaia",
+    "id": 11157
+  },
+  "11158": {
+    "name": "Benkei's Key of Gaia",
+    "id": 11158
+  },
+  "11159": {
+    "name": "Faust's Key of Gaia",
+    "id": 11159
+  },
+  "11160": {
+    "name": "Eligos's Key of Gaia",
+    "id": 11160
+  },
+  "11161": {
+    "name": "Sigrun's Key of Gaia",
+    "id": 11161
+  },
+  "11162": {
+    "name": "Nalani's Key of Gaia",
+    "id": 11162
+  },
+  "11163": {
+    "name": "Uzuriel's Key of Gaia",
+    "id": 11163
+  },
+  "11164": {
+    "name": "Tanith's Key of Gaia",
+    "id": 11164
+  },
+  "11165": {
+    "name": "Maja's Key of Gaia",
+    "id": 11165
+  },
+  "11166": {
+    "name": "Bel-Chandra's Key of Gaia",
+    "id": 11166
+  },
+  "11167": {
+    "name": "Vayu's Key of Gaia",
+    "id": 11167
+  },
+  "11168": {
+    "name": "Nazrudin's Key of Gaia",
+    "id": 11168
+  },
+  "11169": {
+    "name": "Yarnaros' Key of Gaia",
+    "id": 11169
+  },
+  "11170": {
+    "name": "Ghodroon's Key of Gaia",
+    "id": 11170
+  },
+  "11171": {
+    "name": "Quelkulan's Key of Gaia",
+    "id": 11171
+  },
+  "11172": {
+    "name": "Zaahir's Key of Gaia",
+    "id": 11172
+  },
+  "11173": {
+    "name": "Cyril's Key of Gaia",
+    "id": 11173
+  },
+  "11174": {
+    "name": "Kotonoha's Key of Gaia",
+    "id": 11174
+  },
+  "11175": {
+    "name": "Tigerius Caesar's Key of Gaia",
+    "id": 11175
+  },
+  "11176": {
+    "name": "Bahadur's Key of Gaia",
+    "id": 11176
+  },
+  "11177": {
+    "name": "Tsubaki's Key of Gaia",
+    "id": 11177
+  },
+  "11178": {
+    "name": "Cleopawtra's Key of Gaia",
+    "id": 11178
+  },
+  "11179": {
+    "name": "Hero's Emblem",
+    "id": 11179
+  },
+  "11180": {
+    "name": "Crest of Light",
+    "id": 11180
+  },
+  "11181": {
+    "name": "Crest of Darkness",
+    "id": 11181
+  },
+  "11182": {
+    "name": "Crest of Sand",
+    "id": 11182
+  },
+  "11183": {
+    "name": "Crest of the Forest",
+    "id": 11183
+  },
+  "11184": {
+    "name": "Crest of Flame",
+    "id": 11184
+  },
+  "11185": {
+    "name": "Crest of Ice",
+    "id": 11185
+  },
+  "11186": {
+    "name": "Crest of Wind",
+    "id": 11186
+  },
+  "11187": {
+    "name": "Crest of Thunder",
+    "id": 11187
+  },
+  "11216": {
+    "name": "Bounty for the Capture of Kalna",
+    "id": 11216
+  },
+  "11226": {
+    "name": "Bounty for the Capture of Destroyer G-800",
+    "id": 11226
+  },
+  "11250": {
+    "name": "Bounty for the Capture of Tania",
+    "id": 11250
+  },
+  "11252": {
+    "name": "Cruel Tyrant's Blades",
+    "id": 11252
+  },
+  "11253": {
+    "name": "Cruel Tyrant's Sword and Shield",
+    "id": 11253
+  },
+  "11254": {
+    "name": "Cruel Tyrant's Heavy Axe",
+    "id": 11254
+  },
+  "11257": {
+    "name": "Cruel Tyrant's Cannon",
+    "id": 11257
+  },
+  "11258": {
+    "name": "Cruel Tyrant's Grimoire",
+    "id": 11258
+  },
+  "11260": {
+    "name": "Machetes of the Elite Guardian",
+    "id": 11260
+  },
+  "11261": {
+    "name": "Elite Guardian's Sword and Shield",
+    "id": 11261
+  },
+  "11263": {
+    "name": "Elite Guardian's Staff",
+    "id": 11263
+  },
+  "11265": {
+    "name": "Elite Guardian's Cannon",
+    "id": 11265
+  },
+  "11266": {
+    "name": "Elite Guardian's Grimoire",
+    "id": 11266
+  },
+  "11267": {
+    "name": "Elite Guardian's Harp",
+    "id": 11267
+  },
+  "11268": {
+    "name": "Great General's Headgear",
+    "id": 11268
+  },
+  "11270": {
+    "name": "Great General's Wristguards",
+    "id": 11270
+  },
+  "11271": {
+    "name": "Great General's Leggings",
+    "id": 11271
+  },
+  "11272": {
+    "name": "Great General's Sash",
+    "id": 11272
+  },
+  "11273": {
+    "name": "Great General's Pendant",
+    "id": 11273
+  },
+  "11274": {
+    "name": "Great General's Ring",
+    "id": 11274
+  },
+  "11275": {
+    "name": "Great General's Cloak",
+    "id": 11275
+  },
+  "11276": {
+    "name": "Strategist's Cap",
+    "id": 11276
+  },
+  "11277": {
+    "name": "Strategist's Coat",
+    "id": 11277
+  },
+  "11278": {
+    "name": "Strategist's Wrist Wraps",
+    "id": 11278
+  },
+  "11279": {
+    "name": "Strategist's Ankle Boots",
+    "id": 11279
+  },
+  "11280": {
+    "name": "Strategist's Belt",
+    "id": 11280
+  },
+  "11281": {
+    "name": "Strategist's Choker",
+    "id": 11281
+  },
+  "11282": {
+    "name": "Strategist's Ring",
+    "id": 11282
+  },
+  "11283": {
+    "name": "Strategist's Cape",
+    "id": 11283
+  },
+  "11284": {
+    "name": "Warrior's Headgear",
+    "id": 11284
+  },
+  "11285": {
+    "name": "Warrior's Light Armor",
+    "id": 11285
+  },
+  "11286": {
+    "name": "Warrior's Wristguards",
+    "id": 11286
+  },
+  "11287": {
+    "name": "Warrior's Leggings",
+    "id": 11287
+  },
+  "11288": {
+    "name": "Warrior's Belt",
+    "id": 11288
+  },
+  "11289": {
+    "name": "Gladiator's Cap",
+    "id": 11289
+  },
+  "11290": {
+    "name": "Gladiator's Coat",
+    "id": 11290
+  },
+  "11291": {
+    "name": "Gladiator's Wristwraps",
+    "id": 11291
+  },
+  "11292": {
+    "name": "Gladiator's Ankle Boots",
+    "id": 11292
+  },
+  "11293": {
+    "name": "Gladiator's Belt",
+    "id": 11293
+  },
+  "11298": {
+    "name": "Meira's Silver Ceremonial Dagger",
+    "id": 11298
+  },
+  "11299": {
+    "name": "Grass Kingdom's Sword of Bravery",
+    "id": 11299
+  },
+  "11303": {
+    "name": "Blockhead's Nemesis Incinerator",
+    "id": 11303
+  },
+  "11304": {
+    "name": "Codex of the First Village",
+    "id": 11304
+  },
+  "11305": {
+    "name": "Reid's Soul Seeking Harp",
+    "id": 11305
+  },
+  "11306": {
+    "name": "Doctor Crow's Glorious Plumed Cap",
+    "id": 11306
+  },
+  "11307": {
+    "name": "Kirk's Victory Armor",
+    "id": 11307
+  },
+  "11308": {
+    "name": "Bombino's Freezing Touch",
+    "id": 11308
+  },
+  "11310": {
+    "name": "Valerie's Faecrafted Belt",
+    "id": 11310
+  },
+  "11311": {
+    "name": "Flower Crown of the Immortal Sprite",
+    "id": 11311
+  },
+  "11312": {
+    "name": "Watson's Glimmering Tourmaline Ring",
+    "id": 11312
+  },
+  "11313": {
+    "name": "Shane's Mysterious Adventure Cloak",
+    "id": 11313
+  },
+  "11314": {
+    "name": "Lola's Enigmatic Color-Shifting Stone",
+    "id": 11314
+  },
+  "11315": {
+    "name": "Grass Kingdom's Medal of Glory",
+    "id": 11315
+  },
+  "11316": {
+    "name": "Eddie's Demon Hunting Cap",
+    "id": 11316
+  },
+  "11317": {
+    "name": "Daisy's Robes of the Fiery Soul",
+    "id": 11317
+  },
+  "11319": {
+    "name": "Stanley's Demon Stomping Boots",
+    "id": 11319
+  },
+  "11320": {
+    "name": "Grass Kingdom Hero's Belt",
+    "id": 11320
+  },
+  "11322": {
+    "name": "Koral's Ring of Memories",
+    "id": 11322
+  },
+  "11324": {
+    "name": "Barlo's Tome of Desert Warfare",
+    "id": 11324
+  },
+  "11326": {
+    "name": "Isaias's Gift",
+    "id": 11326
+  },
+  "11327": {
+    "name": "Edward's Gift",
+    "id": 11327
+  },
+  "11328": {
+    "name": "Annie's Gift",
+    "id": 11328
+  },
+  "11332": {
+    "name": "Wilhelm's Gift",
+    "id": 11332
+  },
+  "11358": {
+    "name": "Gigas's Key Fragments",
+    "id": 11358
+  },
+  "11359": {
+    "name": "Aelius's Key Fragments",
+    "id": 11359
+  },
+  "11360": {
+    "name": "Abraxas's Key Fragments",
+    "id": 11360
+  },
+  "11361": {
+    "name": "Benkei's Key Fragments",
+    "id": 11361
+  },
+  "11362": {
+    "name": "Faust's Key Fragments",
+    "id": 11362
+  },
+  "11363": {
+    "name": "Eligos's Key Fragments",
+    "id": 11363
+  },
+  "11364": {
+    "name": "Sigrun's Key Fragments",
+    "id": 11364
+  },
+  "11365": {
+    "name": "Nalani's Key Fragments",
+    "id": 11365
+  },
+  "11366": {
+    "name": "Uzuriel's Key Fragments",
+    "id": 11366
+  },
+  "11367": {
+    "name": "Tanith's Key Fragments",
+    "id": 11367
+  },
+  "11368": {
+    "name": "Maja's Key Fragments",
+    "id": 11368
+  },
+  "11369": {
+    "name": "Bel-Chandra's Key Fragments",
+    "id": 11369
+  },
+  "11370": {
+    "name": "Vayu's Key Fragments",
+    "id": 11370
+  },
+  "11371": {
+    "name": "Nazrudin's Key Fragments",
+    "id": 11371
+  },
+  "11372": {
+    "name": "Yarnaros's Key Fragments",
+    "id": 11372
+  },
+  "11373": {
+    "name": "Ghodroon's Key Fragments",
+    "id": 11373
+  },
+  "11374": {
+    "name": "Quelkulan's Key Fragments",
+    "id": 11374
+  },
+  "11375": {
+    "name": "Zaahir's Key Fragments",
+    "id": 11375
+  },
+  "11376": {
+    "name": "Cyril's Key Fragments",
+    "id": 11376
+  },
+  "11377": {
+    "name": "Kotonoha's Key Fragments",
+    "id": 11377
+  },
+  "11378": {
+    "name": "Tigerius Caesar's Key Fragments",
+    "id": 11378
+  },
+  "11379": {
+    "name": "Bahadur's Key Fragments",
+    "id": 11379
+  },
+  "11380": {
+    "name": "Tsubaki's Key Fragments",
+    "id": 11380
+  },
+  "11381": {
+    "name": "Cleopawtra's Key Fragments",
+    "id": 11381
+  },
+  "11382": {
+    "name": "Cactakara Forest's Patrol Reward",
+    "id": 11382
+  },
+  "11383": {
+    "name": "Cactakara Forest's Gathering Reward",
+    "id": 11383
+  },
+  "11429": {
+    "name": "Rainbow Fruit",
+    "id": 11429
+  },
+  "11430": {
+    "name": "Ghost Pepper",
+    "id": 11430
+  },
+  "11431": {
+    "name": "Fragrant Flowers",
+    "id": 11431
+  },
+  "11432": {
+    "name": "Crescent Vanilla",
+    "id": 11432
+  },
+  "11434": {
+    "name": "Chopped Nuts",
+    "id": 11434
+  },
+  "11435": {
+    "name": "Crimson Eggs",
+    "id": 11435
+  },
+  "11436": {
+    "name": "Crescent Nectar",
+    "id": 11436
+  },
+  "11437": {
+    "name": "Tiger Leaf Powder",
+    "id": 11437
+  },
+  "11439": {
+    "name": "Mushrooms",
+    "id": 11439
+  },
+  "11440": {
+    "name": "Navea Vanilla",
+    "id": 11440
+  },
+  "11441": {
+    "name": "Navea Soothing Herbs",
+    "id": 11441
+  },
+  "11442": {
+    "name": "Stardust Flower",
+    "id": 11442
+  },
+  "11443": {
+    "name": "Aromatic Spores",
+    "id": 11443
+  },
+  "11444": {
+    "name": "Multicolored Water Mushroom",
+    "id": 11444
+  },
+  "11446": {
+    "name": "Dried Berries",
+    "id": 11446
+  },
+  "11447": {
+    "name": "Small Berry",
+    "id": 11447
+  },
+  "11449": {
+    "name": "Vigor Leaves",
+    "id": 11449
+  },
+  "11450": {
+    "name": "Giant Egg",
+    "id": 11450
+  },
+  "11451": {
+    "name": "Miracle Thornapple",
+    "id": 11451
+  },
+  "11452": {
+    "name": "Oasis Spices",
+    "id": 11452
+  },
+  "11454": {
+    "name": "Miracle Plum",
+    "id": 11454
+  },
+  "11455": {
+    "name": "Miracle Flower",
+    "id": 11455
+  },
+  "11456": {
+    "name": "Sand-Vine Fruit",
+    "id": 11456
+  },
+  "11459": {
+    "name": "Highland Wheat Flour",
+    "id": 11459
+  },
+  "11460": {
+    "name": "Old Coconut",
+    "id": 11460
+  },
+  "11461": {
+    "name": "Fresh Garlic Sprouts",
+    "id": 11461
+  },
+  "11462": {
+    "name": "Cocoa Fruit",
+    "id": 11462
+  },
+  "11463": {
+    "name": "Green Allspice",
+    "id": 11463
+  },
+  "11464": {
+    "name": "Grapes",
+    "id": 11464
+  },
+  "11465": {
+    "name": "Wild Bird Eggs",
+    "id": 11465
+  },
+  "11467": {
+    "name": "Raisins",
+    "id": 11467
+  },
+  "11468": {
+    "name": "Small Egg",
+    "id": 11468
+  },
+  "11508": {
+    "name": "Rainbow Jelly",
+    "id": 11508
+  },
+  "11515": {
+    "name": "Spicy Escargot Skewer",
+    "id": 11515
+  },
+  "11516": {
+    "name": "Toast with Honey & Jam",
+    "id": 11516
+  },
+  "11517": {
+    "name": "PB&J",
+    "id": 11517
+  },
+  "11519": {
+    "name": "Golden Honey and Jam Toast",
+    "id": 11519
+  },
+  "11522": {
+    "name": "Chicken in Secret Sauce",
+    "id": 11522
+  },
+  "11523": {
+    "name": "Dreamy Roasted Chicken",
+    "id": 11523
+  },
+  "11526": {
+    "name": "Veggies with Fresh Aioli",
+    "id": 11526
+  },
+  "11528": {
+    "name": "Fruit & Nut Cookies",
+    "id": 11528
+  },
+  "11529": {
+    "name": "Peanut Cookies",
+    "id": 11529
+  },
+  "11533": {
+    "name": "Bread Pudding",
+    "id": 11533
+  },
+  "11535": {
+    "name": "Clark's Special Pudding",
+    "id": 11535
+  },
+  "11540": {
+    "name": "Flavorful Herbal Tea",
+    "id": 11540
+  },
+  "11542": {
+    "name": "Strong Iced Tea",
+    "id": 11542
+  },
+  "11546": {
+    "name": "Roast Chicken Lasagna",
+    "id": 11546
+  },
+  "11547": {
+    "name": "Chicken Under a Brick",
+    "id": 11547
+  },
+  "11549": {
+    "name": "Broiled Fish Fillet",
+    "id": 11549
+  },
+  "11550": {
+    "name": "Fish 'n Chips",
+    "id": 11550
+  },
+  "11551": {
+    "name": "Fish with Mushroom Sauce",
+    "id": 11551
+  },
+  "11552": {
+    "name": "Vanilla Macaron",
+    "id": 11552
+  },
+  "11555": {
+    "name": "Heavenly Vanilla Macaroon",
+    "id": 11555
+  },
+  "11558": {
+    "name": "Fruit and Honey Tea",
+    "id": 11558
+  },
+  "11563": {
+    "name": "Pop Rocks",
+    "id": 11563
+  },
+  "11565": {
+    "name": "Night Serenade",
+    "id": 11565
+  },
+  "11566": {
+    "name": "Mysterious Nocturne",
+    "id": 11566
+  },
+  "11567": {
+    "name": "Moonlight Sonata",
+    "id": 11567
+  },
+  "11570": {
+    "name": "Spicy Veggie Stir Fry",
+    "id": 11570
+  },
+  "11574": {
+    "name": "Spicy Ribs and Porcinis",
+    "id": 11574
+  },
+  "11575": {
+    "name": "Beef Wellington",
+    "id": 11575
+  },
+  "11576": {
+    "name": "Strawberry Cake",
+    "id": 11576
+  },
+  "11577": {
+    "name": "Berry Tart",
+    "id": 11577
+  },
+  "11582": {
+    "name": "Cold Soda",
+    "id": 11582
+  },
+  "11583": {
+    "name": "Sugary Soda",
+    "id": 11583
+  },
+  "11585": {
+    "name": "Steamy Romance",
+    "id": 11585
+  },
+  "11587": {
+    "name": "Passionate Lover",
+    "id": 11587
+  },
+  "11588": {
+    "name": "Dragon Soul Energy Drink",
+    "id": 11588
+  },
+  "11589": {
+    "name": "Revitilization Drink",
+    "id": 11589
+  },
+  "11591": {
+    "name": "Longevity Drink",
+    "id": 11591
+  },
+  "11593": {
+    "name": "Large Lunchbox",
+    "id": 11593
+  },
+  "11597": {
+    "name": "Pickle Salad",
+    "id": 11597
+  },
+  "11599": {
+    "name": "Salad du Jour",
+    "id": 11599
+  },
+  "11600": {
+    "name": "Berry Cake Roll",
+    "id": 11600
+  },
+  "11601": {
+    "name": "Iced Berry Swiss Roll",
+    "id": 11601
+  },
+  "11602": {
+    "name": "Frosted Berry Swiss Roll",
+    "id": 11602
+  },
+  "11603": {
+    "name": "Handmade Swiss Roll with Striped Icing",
+    "id": 11603
+  },
+  "11605": {
+    "name": "Beer Cure",
+    "id": 11605
+  },
+  "11613": {
+    "name": "Miracle Tea with Honey",
+    "id": 11613
+  },
+  "11614": {
+    "name": "Miracle Tea with Flowers",
+    "id": 11614
+  },
+  "11615": {
+    "name": "Royal Jelly Tea",
+    "id": 11615
+  },
+  "11617": {
+    "name": "Vanilla Fudge Cookies",
+    "id": 11617
+  },
+  "11618": {
+    "name": "Cookies and Cream",
+    "id": 11618
+  },
+  "11619": {
+    "name": "Vanilla Biscuits",
+    "id": 11619
+  },
+  "11621": {
+    "name": "Tea with Almond Milk",
+    "id": 11621
+  },
+  "11622": {
+    "name": "Highly Caffeinated Tea",
+    "id": 11622
+  },
+  "11623": {
+    "name": "Black Bubble Tea",
+    "id": 11623
+  },
+  "11625": {
+    "name": "Crispy Fried Milk Balls",
+    "id": 11625
+  },
+  "11626": {
+    "name": "Premium Fried Milk Balls",
+    "id": 11626
+  },
+  "11629": {
+    "name": "Freshly Caught Fish",
+    "id": 11629
+  },
+  "11630": {
+    "name": "Sweet and Sour Fish",
+    "id": 11630
+  },
+  "11631": {
+    "name": "Spicy Pickled Herring",
+    "id": 11631
+  },
+  "11633": {
+    "name": "Garlic Steamed Veggies",
+    "id": 11633
+  },
+  "11634": {
+    "name": "Grandma's Greens",
+    "id": 11634
+  },
+  "11637": {
+    "name": "Swamp Latte",
+    "id": 11637
+  },
+  "11641": {
+    "name": "Tender Steak",
+    "id": 11641
+  },
+  "11642": {
+    "name": "Perfectly Cooked Steak",
+    "id": 11642
+  },
+  "11643": {
+    "name": "Filet Mignon",
+    "id": 11643
+  },
+  "11645": {
+    "name": "Post Dinner Scotch",
+    "id": 11645
+  },
+  "11646": {
+    "name": "Nightcap",
+    "id": 11646
+  },
+  "11647": {
+    "name": "English Breakfast Tea",
+    "id": 11647
+  },
+  "11649": {
+    "name": "Spicy Meatballs",
+    "id": 11649
+  },
+  "11650": {
+    "name": "Spaghetti and Meatballs",
+    "id": 11650
+  },
+  "11653": {
+    "name": "Summertime Iced Tea",
+    "id": 11653
+  },
+  "11654": {
+    "name": "Autumn Oolong Tea",
+    "id": 11654
+  },
+  "11655": {
+    "name": "Poseidon's Winter Tea",
+    "id": 11655
+  },
+  "11659": {
+    "name": "Multigrain Toast",
+    "id": 11659
+  },
+  "11661": {
+    "name": "Egg Nog with Cinnamon",
+    "id": 11661
+  },
+  "11662": {
+    "name": "Egg Nog with Brandy",
+    "id": 11662
+  },
+  "11663": {
+    "name": "Grandpa's Special Egg Nog",
+    "id": 11663
+  },
+  "11666": {
+    "name": "Dimensional Hall Reward (Level 20)",
+    "id": 11666
+  },
+  "11967": {
+    "name": "Fight Club Prize (Elementary)",
+    "id": 11967
+  },
+  "11968": {
+    "name": "Fight Club Prize (Intermediate)",
+    "id": 11968
+  },
+  "11976": {
+    "name": "Allie's Rejuvenation Gloves",
+    "id": 11976
+  },
+  "11978": {
+    "name": "Sonia's Vow",
+    "id": 11978
+  },
+  "11980": {
+    "name": "Ring of Resentment",
+    "id": 11980
+  },
+  "11981": {
+    "name": "Llewelyn's Cloak of the Fallen",
+    "id": 11981
+  },
+  "11982": {
+    "name": "Garrin's Will",
+    "id": 11982
+  },
+  "12382": {
+    "name": "Katars of the Elite Guardian",
+    "id": 12382
+  },
+  "12451": {
+    "name": "Deckard's Fiery Sun",
+    "id": 12451
+  },
+  "12454": {
+    "name": "Holm's Lost Tome of the Ancients",
+    "id": 12454
+  },
+  "12455": {
+    "name": "Randall's Phoenix Blessed Lyre",
+    "id": 12455
+  },
+  "12458": {
+    "name": "Asheara's Frozen Soul Crystal",
+    "id": 12458
+  },
+  "12459": {
+    "name": "Zaunna's Ritual Plume",
+    "id": 12459
+  },
+  "12460": {
+    "name": "Adracei's Cursed Silk",
+    "id": 12460
+  },
+  "12461": {
+    "name": "Mighty Horn of Argus",
+    "id": 12461
+  },
+  "12463": {
+    "name": "Helakar's Band of Loyalty",
+    "id": 12463
+  },
+  "12466": {
+    "name": "Saint Hale's Divine Band",
+    "id": 12466
+  },
+  "12467": {
+    "name": "Talamund's Infernal Whisper",
+    "id": 12467
+  },
+  "12468": {
+    "name": "Murfeo's Winged Necklace",
+    "id": 12468
+  },
+  "12470": {
+    "name": "Frederic's Feathered Cloak",
+    "id": 12470
+  },
+  "12502": {
+    "name": "Fusion Formula: Zaahir's Soul-Rending Fangs",
+    "id": 12502
+  },
+  "12507": {
+    "name": "Fusion Formula: Zaahir's Meteoric Shock",
+    "id": 12507
+  },
+  "12511": {
+    "name": "Ramgram's Crystalline Heart",
+    "id": 12511
+  },
+  "12512": {
+    "name": "Essence of Titanus",
+    "id": 12512
+  },
+  "12513": {
+    "name": "Assassin's Eye",
+    "id": 12513
+  },
+  "12515": {
+    "name": "Lion's Vocal Cords",
+    "id": 12515
+  },
+  "12516": {
+    "name": "Unstable Energy",
+    "id": 12516
+  },
+  "12517": {
+    "name": "Delicate Components",
+    "id": 12517
+  },
+  "12518": {
+    "name": "Glimmering Miracle Stone Fragment",
+    "id": 12518
+  },
+  "12519": {
+    "name": "Magically Enhanced Muck",
+    "id": 12519
+  },
+  "12520": {
+    "name": "Shrill Vocal Cords",
+    "id": 12520
+  },
+  "12521": {
+    "name": "Eternal Stoneheart",
+    "id": 12521
+  },
+  "12522": {
+    "name": "Lestaro's Strength of the Earth",
+    "id": 12522
+  },
+  "12523": {
+    "name": "Toto's Roaring Waters",
+    "id": 12523
+  },
+  "12524": {
+    "name": "Asheara's Pearl of Wisdom",
+    "id": 12524
+  },
+  "12526": {
+    "name": "Adracei's Venom Sac",
+    "id": 12526
+  },
+  "12527": {
+    "name": "Argus's Broken Horn",
+    "id": 12527
+  },
+  "12529": {
+    "name": "Helakar's Broken Spirit",
+    "id": 12529
+  },
+  "12530": {
+    "name": "Talen's Bloody Skin",
+    "id": 12530
+  },
+  "12531": {
+    "name": "Gekasso's Swiveling Eye",
+    "id": 12531
+  },
+  "12532": {
+    "name": "Saint Hale's Broken Horn",
+    "id": 12532
+  },
+  "12533": {
+    "name": "Talamund's Final Breath",
+    "id": 12533
+  },
+  "12537": {
+    "name": "Flawless Turtle Shell",
+    "id": 12537
+  },
+  "12539": {
+    "name": "Pure Crystallized Magic",
+    "id": 12539
+  },
+  "12541": {
+    "name": "Tattooed Skin",
+    "id": 12541
+  },
+  "12542": {
+    "name": "Ritualistic Runes",
+    "id": 12542
+  },
+  "12544": {
+    "name": "Willful Soul",
+    "id": 12544
+  },
+  "12545": {
+    "name": "Essence of Prairie Winds",
+    "id": 12545
+  },
+  "12546": {
+    "name": "Thick Hide",
+    "id": 12546
+  },
+  "12547": {
+    "name": "Book of Oracle",
+    "id": 12547
+  },
+  "12548": {
+    "name": "Oozing Zombie Heart",
+    "id": 12548
+  },
+  "12549": {
+    "name": "Amulet of Protection",
+    "id": 12549
+  },
+  "12550": {
+    "name": "Radiant Core",
+    "id": 12550
+  },
+  "12551": {
+    "name": "Fresh Demon Skin",
+    "id": 12551
+  },
+  "12553": {
+    "name": "Heart of the Marsh",
+    "id": 12553
+  },
+  "12554": {
+    "name": "Ancient Glimmering Fossil",
+    "id": 12554
+  },
+  "12555": {
+    "name": "Rainbow Colored Shards",
+    "id": 12555
+  },
+  "12556": {
+    "name": "Gladiator's Feather",
+    "id": 12556
+  },
+  "12557": {
+    "name": "Magically Concentrated Catalyst",
+    "id": 12557
+  },
+  "12558": {
+    "name": "Strange Cursed Stones",
+    "id": 12558
+  },
+  "12559": {
+    "name": "Soul of the Sands",
+    "id": 12559
+  },
+  "12560": {
+    "name": "High Voltage Crystal",
+    "id": 12560
+  },
+  "12561": {
+    "name": "Wolfheart Pearls",
+    "id": 12561
+  },
+  "12562": {
+    "name": "Guardian's Last Breath",
+    "id": 12562
+  },
+  "12564": {
+    "name": "Essence of the Wild",
+    "id": 12564
+  },
+  "12566": {
+    "name": "Imperial Feather",
+    "id": 12566
+  },
+  "12574": {
+    "name": "Zaahir's Soul Orb",
+    "id": 12574
+  },
+  "12576": {
+    "name": "Scarlet Fire Crystal",
+    "id": 12576
+  },
+  "12577": {
+    "name": "Immortal Fire Crystal",
+    "id": 12577
+  },
+  "12687": {
+    "name": "Health Potion",
+    "id": 12687
+  },
+  "12688": {
+    "name": "Strength Potion",
+    "id": 12688
+  },
+  "12689": {
+    "name": "Fury Potion",
+    "id": 12689
+  },
+  "12690": {
+    "name": "Swiftness Potion",
+    "id": 12690
+  },
+  "12691": {
+    "name": "Stamina Potion",
+    "id": 12691
+  },
+  "12692": {
+    "name": "Agility Potion",
+    "id": 12692
+  },
+  "12693": {
+    "name": "Fortitude Potion",
+    "id": 12693
+  },
+  "12694": {
+    "name": "Greater Health Potion",
+    "id": 12694
+  },
+  "12695": {
+    "name": "Greater Strength Potion",
+    "id": 12695
+  },
+  "12696": {
+    "name": "Greater Fury Potion",
+    "id": 12696
+  },
+  "12697": {
+    "name": "Greater Swiftness Potion",
+    "id": 12697
+  },
+  "12698": {
+    "name": "Greater Stamina Potion",
+    "id": 12698
+  },
+  "12699": {
+    "name": "Greater Agility Potion",
+    "id": 12699
+  },
+  "12700": {
+    "name": "Greater Fortitude Potion",
+    "id": 12700
+  },
+  "12701": {
+    "name": "Superior Health Potion",
+    "id": 12701
+  },
+  "12702": {
+    "name": "Superior Strength Potion",
+    "id": 12702
+  },
+  "12703": {
+    "name": "Superior Fury Potion",
+    "id": 12703
+  },
+  "12704": {
+    "name": "Superior Swiftness Potion",
+    "id": 12704
+  },
+  "12705": {
+    "name": "Superior Stamina Potion",
+    "id": 12705
+  },
+  "12706": {
+    "name": "Superior Agility Potion",
+    "id": 12706
+  },
+  "12707": {
+    "name": "Superior Fortitude Potion",
+    "id": 12707
+  },
+  "12708": {
+    "name": "Elixir of Flame",
+    "id": 12708
+  },
+  "12709": {
+    "name": "Elixir of Ice",
+    "id": 12709
+  },
+  "12710": {
+    "name": "Elixir of Lightning",
+    "id": 12710
+  },
+  "12711": {
+    "name": "Elixir of Storms",
+    "id": 12711
+  },
+  "12712": {
+    "name": "Elixir of Divinity",
+    "id": 12712
+  },
+  "12713": {
+    "name": "Elixir of Darkness",
+    "id": 12713
+  },
+  "12714": {
+    "name": "Speed of Beebis",
+    "id": 12714
+  },
+  "12715": {
+    "name": "Hands of Shadow",
+    "id": 12715
+  },
+  "12718": {
+    "name": "Dispelling Potion",
+    "id": 12718
+  },
+  "12719": {
+    "name": "Divinity Dust",
+    "id": 12719
+  },
+  "12720": {
+    "name": "Warrior's Soul",
+    "id": 12720
+  },
+  "12724": {
+    "name": "Volatile Fluid",
+    "id": 12724
+  },
+  "12726": {
+    "name": "Viscous Organic Liquid",
+    "id": 12726
+  },
+  "12735": {
+    "name": "Strengthening Spanner",
+    "id": 12735
+  },
+  "12736": {
+    "name": "Strengthening Hammer",
+    "id": 12736
+  },
+  "12737": {
+    "name": "Strengthening Chisel",
+    "id": 12737
+  },
+  "12738": {
+    "name": "Sharpening Spanner",
+    "id": 12738
+  },
+  "12739": {
+    "name": "Sharpening Hammer",
+    "id": 12739
+  },
+  "12740": {
+    "name": "Sharpening Chisel",
+    "id": 12740
+  },
+  "12741": {
+    "name": "Lightening Spanner",
+    "id": 12741
+  },
+  "12742": {
+    "name": "Lightening Hammer",
+    "id": 12742
+  },
+  "12743": {
+    "name": "Lightening Chisel",
+    "id": 12743
+  },
+  "12744": {
+    "name": "Reinforcing Metal Plate",
+    "id": 12744
+  },
+  "12745": {
+    "name": "Reinforcing Grinding Wheel",
+    "id": 12745
+  },
+  "12746": {
+    "name": "Reinforcing Pliers",
+    "id": 12746
+  },
+  "12747": {
+    "name": "Stalwart Iron Plate",
+    "id": 12747
+  },
+  "12748": {
+    "name": "Stalwart Iron Grinding Wheel",
+    "id": 12748
+  },
+  "12750": {
+    "name": "Agile Metal Plate",
+    "id": 12750
+  },
+  "12751": {
+    "name": "Agile Grinding Wheel",
+    "id": 12751
+  },
+  "12752": {
+    "name": "Agile Pliers",
+    "id": 12752
+  },
+  "12753": {
+    "name": "Enhanced Strengthening Spanner",
+    "id": 12753
+  },
+  "12754": {
+    "name": "Enhanced Strengthening Hammer",
+    "id": 12754
+  },
+  "12755": {
+    "name": "Enhanced Strengthening Chisel",
+    "id": 12755
+  },
+  "12756": {
+    "name": "Enhanced Sharpening Spanner",
+    "id": 12756
+  },
+  "12758": {
+    "name": "Enhanced Sharpening Chisel",
+    "id": 12758
+  },
+  "12759": {
+    "name": "Enhanced Lightening Spanner",
+    "id": 12759
+  },
+  "12760": {
+    "name": "Enhanced Lightening Hammer",
+    "id": 12760
+  },
+  "12761": {
+    "name": "Enhanced Lightening Chisel",
+    "id": 12761
+  },
+  "12762": {
+    "name": "Enhanced Reinforcing Metal Plate",
+    "id": 12762
+  },
+  "12763": {
+    "name": "Enhanced Reinforcing Grinding Wheel",
+    "id": 12763
+  },
+  "12764": {
+    "name": "Enhanced Reinforcing Pliers",
+    "id": 12764
+  },
+  "12765": {
+    "name": "Enhanced Stalwart Iron Plate",
+    "id": 12765
+  },
+  "12768": {
+    "name": "Enhanced Agile Metal Plate",
+    "id": 12768
+  },
+  "12769": {
+    "name": "Enhanced Agile Grinding Wheel",
+    "id": 12769
+  },
+  "12770": {
+    "name": "Enhanced Agile Pliers",
+    "id": 12770
+  },
+  "12787": {
+    "name": "Angler's Fly Fishing Rod",
+    "id": 12787
+  },
+  "12788": {
+    "name": "Professional Stone Fishing Rod",
+    "id": 12788
+  },
+  "12789": {
+    "name": "Festival Fishing Rod",
+    "id": 12789
+  },
+  "12790": {
+    "name": "Fluorescent Streamlined Fishing Rod",
+    "id": 12790
+  },
+  "12793": {
+    "name": "Mercenary Captain's Fishing Rod",
+    "id": 12793
+  },
+  "12802": {
+    "name": "Mermaid's Tail",
+    "id": 12802
+  },
+  "12803": {
+    "name": "Armored Rod",
+    "id": 12803
+  },
+  "12804": {
+    "name": "Golden Rod",
+    "id": 12804
+  },
+  "12809": {
+    "name": "Royal Rainbow",
+    "id": 12809
+  },
+  "12810": {
+    "name": "Daze Rod",
+    "id": 12810
+  },
+  "12813": {
+    "name": "Wise Master's Rod",
+    "id": 12813
+  },
+  "12815": {
+    "name": "Grand Duke's Rod",
+    "id": 12815
+  },
+  "12816": {
+    "name": "Bounty of Atlantis",
+    "id": 12816
+  },
+  "12817": {
+    "name": "Poseidon's Horn",
+    "id": 12817
+  },
+  "12887": {
+    "name": "Muck-Resistant Coat",
+    "id": 12887
+  },
+  "12910": {
+    "name": "Classic Angler's Hat",
+    "id": 12910
+  },
+  "12911": {
+    "name": "Classic Angler's Coat",
+    "id": 12911
+  },
+  "12913": {
+    "name": "Classic Angler's Shoes",
+    "id": 12913
+  },
+  "12918": {
+    "name": "Noble's Fishing Hat",
+    "id": 12918
+  },
+  "12919": {
+    "name": "Noble's Fishing Vest",
+    "id": 12919
+  },
+  "12920": {
+    "name": "Noble's Fishing Bracers",
+    "id": 12920
+  },
+  "12921": {
+    "name": "Noble's Fishing Shoes",
+    "id": 12921
+  },
+  "12928": {
+    "name": "Rainforest Fishing Gloves",
+    "id": 12928
+  },
+  "12929": {
+    "name": "Rainforest Fishing Shoes",
+    "id": 12929
+  },
+  "12930": {
+    "name": "Agile Shark Hunting Mask",
+    "id": 12930
+  },
+  "12931": {
+    "name": "Agile Shark Hunting Wetsuit",
+    "id": 12931
+  },
+  "12934": {
+    "name": "Sturdy Fish Bone Protective Mask",
+    "id": 12934
+  },
+  "12935": {
+    "name": "Sturdy Fish Bone Hauberk",
+    "id": 12935
+  },
+  "12936": {
+    "name": "Sturdy Fish Bone Gauntlets",
+    "id": 12936
+  },
+  "12938": {
+    "name": "Mythical Angler Helm",
+    "id": 12938
+  },
+  "12939": {
+    "name": "Mythical Angler Coat",
+    "id": 12939
+  },
+  "12954": {
+    "name": "Great White Facemask",
+    "id": 12954
+  },
+  "12955": {
+    "name": "Great White Wetsuit",
+    "id": 12955
+  },
+  "12958": {
+    "name": "Deep Sea Faceguard",
+    "id": 12958
+  },
+  "12959": {
+    "name": "Deep Sea Hauberk",
+    "id": 12959
+  },
+  "12962": {
+    "name": "Crustacean Warrior Sallet",
+    "id": 12962
+  },
+  "12963": {
+    "name": "Crustacean Warrior Armor",
+    "id": 12963
+  },
+  "12970": {
+    "name": "Nymphet's Graceful Hairpin",
+    "id": 12970
+  },
+  "12979": {
+    "name": "Penguin Bandit's Jacket",
+    "id": 12979
+  },
+  "12986": {
+    "name": "Nymphet's Hairpin",
+    "id": 12986
+  },
+  "12987": {
+    "name": "Nymphet's Kimono",
+    "id": 12987
+  },
+  "12988": {
+    "name": "Nymphet's Bracelet",
+    "id": 12988
+  },
+  "12990": {
+    "name": "Grand Duke's Crown",
+    "id": 12990
+  },
+  "12991": {
+    "name": "Grand Duke's Celestial Robes",
+    "id": 12991
+  },
+  "12994": {
+    "name": "Nebuchadnezzar's Mask",
+    "id": 12994
+  },
+  "13014": {
+    "name": "Soft Western Saury",
+    "id": 13014
+  },
+  "13015": {
+    "name": "Small Squid",
+    "id": 13015
+  },
+  "13016": {
+    "name": "Small Loach",
+    "id": 13016
+  },
+  "13017": {
+    "name": "Fig",
+    "id": 13017
+  },
+  "13018": {
+    "name": "Flower Petal",
+    "id": 13018
+  },
+  "13019": {
+    "name": "River Snail",
+    "id": 13019
+  },
+  "13020": {
+    "name": "Small Tiger Prawn",
+    "id": 13020
+  },
+  "13022": {
+    "name": "Red Leech",
+    "id": 13022
+  },
+  "13027": {
+    "name": "Magic Fig",
+    "id": 13027
+  },
+  "13029": {
+    "name": "Wriggling River Snail",
+    "id": 13029
+  },
+  "13031": {
+    "name": "Giant Black Mayfly",
+    "id": 13031
+  },
+  "13032": {
+    "name": "Green Leech",
+    "id": 13032
+  },
+  "13041": {
+    "name": "Whitebait",
+    "id": 13041
+  },
+  "13043": {
+    "name": "Herring",
+    "id": 13043
+  },
+  "13045": {
+    "name": "Western Saury",
+    "id": 13045
+  },
+  "13049": {
+    "name": "Catfish",
+    "id": 13049
+  },
+  "13051": {
+    "name": "Yellow Croaker",
+    "id": 13051
+  },
+  "13052": {
+    "name": "Minnow",
+    "id": 13052
+  },
+  "13053": {
+    "name": "Sea Bream",
+    "id": 13053
+  },
+  "13054": {
+    "name": "Bass",
+    "id": 13054
+  },
+  "13055": {
+    "name": "Carp",
+    "id": 13055
+  },
+  "13056": {
+    "name": "Eel",
+    "id": 13056
+  },
+  "13068": {
+    "name": "Bluefin Tuna",
+    "id": 13068
+  },
+  "13069": {
+    "name": "Golden Lobster",
+    "id": 13069
+  },
+  "13070": {
+    "name": "Greeneyed Mandarin Fish",
+    "id": 13070
+  },
+  "13071": {
+    "name": "Crystal Carp",
+    "id": 13071
+  },
+  "13072": {
+    "name": "Highlands Ghost Crab",
+    "id": 13072
+  },
+  "13073": {
+    "name": "Frostfin Trout",
+    "id": 13073
+  },
+  "13078": {
+    "name": "Deep Sea Tuna",
+    "id": 13078
+  },
+  "13079": {
+    "name": "Mutant Crystal Lobster",
+    "id": 13079
+  },
+  "13080": {
+    "name": "Ancient Mandarin Fish",
+    "id": 13080
+  },
+  "13083": {
+    "name": "Giant Marsh Trout",
+    "id": 13083
+  },
+  "13084": {
+    "name": "Rainbow Salmon",
+    "id": 13084
+  },
+  "13154": {
+    "name": "Giant Fish Bones",
+    "id": 13154
+  },
+  "13157": {
+    "name": "Golden Lobster Claw",
+    "id": 13157
+  },
+  "13160": {
+    "name": "Sparkling Blue Crystal",
+    "id": 13160
+  },
+  "13163": {
+    "name": "Icy Fin",
+    "id": 13163
+  },
+  "13164": {
+    "name": "Glistening White Fish Scales",
+    "id": 13164
+  },
+  "13165": {
+    "name": "Colorful Fish Scales",
+    "id": 13165
+  },
+  "13166": {
+    "name": "Whitened Barbel",
+    "id": 13166
+  },
+  "13170": {
+    "name": "Copper Shark King's Teeth",
+    "id": 13170
+  },
+  "13173": {
+    "name": "Anti-pressure Fish Skin",
+    "id": 13173
+  },
+  "13174": {
+    "name": "Crystal Lobster Shell",
+    "id": 13174
+  },
+  "13175": {
+    "name": "Ancient Gastrolith",
+    "id": 13175
+  },
+  "13177": {
+    "name": "Petal-shaped Gold Scale",
+    "id": 13177
+  },
+  "13178": {
+    "name": "King Crab Claw",
+    "id": 13178
+  },
+  "13179": {
+    "name": "King Crab Shell",
+    "id": 13179
+  },
+  "13180": {
+    "name": "Live Marsh Waterweed",
+    "id": 13180
+  },
+  "13182": {
+    "name": "Rainbow Scale",
+    "id": 13182
+  },
+  "13183": {
+    "name": "Rainbow Teardrop",
+    "id": 13183
+  },
+  "13184": {
+    "name": "Waterfall Catfish Mucus",
+    "id": 13184
+  },
+  "13185": {
+    "name": "Millennium Barbels",
+    "id": 13185
+  },
+  "13186": {
+    "name": "Pure Sand Grains",
+    "id": 13186
+  },
+  "13211": {
+    "name": "Azure Glass",
+    "id": 13211
+  },
+  "13212": {
+    "name": "Rainbow Crystal",
+    "id": 13212
+  },
+  "13229": {
+    "name": "Wisdom Fish",
+    "id": 13229
+  },
+  "13257": {
+    "name": "Ironguard General's Helmet",
+    "id": 13257
+  },
+  "13258": {
+    "name": "Ironguard General's Hauberk",
+    "id": 13258
+  },
+  "13259": {
+    "name": "Ironguard General's Gauntlets",
+    "id": 13259
+  },
+  "13260": {
+    "name": "Ironguard General's Sabatons",
+    "id": 13260
+  },
+  "13261": {
+    "name": "Ironguard General's Belt",
+    "id": 13261
+  },
+  "13262": {
+    "name": "Battlefield Hood",
+    "id": 13262
+  },
+  "13263": {
+    "name": "Battlefield Breastplate",
+    "id": 13263
+  },
+  "13264": {
+    "name": "Battlefield Gauntlets",
+    "id": 13264
+  },
+  "13265": {
+    "name": "Battlefield Long Boots",
+    "id": 13265
+  },
+  "13267": {
+    "name": "Ranger's Elite Cap",
+    "id": 13267
+  },
+  "13268": {
+    "name": "Ranger's Elite Tunic",
+    "id": 13268
+  },
+  "13269": {
+    "name": "Ranger's Elite Wrist Wraps",
+    "id": 13269
+  },
+  "13270": {
+    "name": "Ranger's Elite Ankle Boots",
+    "id": 13270
+  },
+  "13271": {
+    "name": "Ranger's Elite Belt",
+    "id": 13271
+  },
+  "13295": {
+    "name": "Nazrudin's Gem",
+    "id": 13295
+  },
+  "13297": {
+    "name": "Nazrudin's Horn of Power",
+    "id": 13297
+  },
+  "13298": {
+    "name": "Sea of Thoughts",
+    "id": 13298
+  },
+  "13325": {
+    "name": "Gebast's Dusty Armor",
+    "id": 13325
+  },
+  "13342": {
+    "name": "Bayin's Amulet of Warmth",
+    "id": 13342
+  },
+  "13368": {
+    "name": "Bow of the Violet Maiden",
+    "id": 13368
+  },
+  "13387": {
+    "name": "Elite Guardian's Composite Bow",
+    "id": 13387
+  },
+  "13388": {
+    "name": "Grass Kingdom's Bravewind Bow",
+    "id": 13388
+  },
+  "13457": {
+    "name": "Ironguard General's Pendant",
+    "id": 13457
+  },
+  "13458": {
+    "name": "Ironguard General's Ring",
+    "id": 13458
+  },
+  "13459": {
+    "name": "Ironguard General's Cloak",
+    "id": 13459
+  },
+  "13460": {
+    "name": "Battlefield Amulet",
+    "id": 13460
+  },
+  "13461": {
+    "name": "Battlefield Band",
+    "id": 13461
+  },
+  "13462": {
+    "name": "Battlefield Cape",
+    "id": 13462
+  },
+  "13531": {
+    "name": "Sky Tower Sigil",
+    "id": 13531
+  },
+  "13534": {
+    "name": "Otherworldly Coin",
+    "id": 13534
+  },
+  "13535": {
+    "name": "Mark of the Thunder King",
+    "id": 13535
+  },
+  "13580": {
+    "name": "Bringer of Light Shawl",
+    "id": 13580
+  },
+  "13611": {
+    "name": "Sacred Blade: Angel's Wing",
+    "id": 13611
+  },
+  "13617": {
+    "name": "Cruel Tyrant's Tachi",
+    "id": 13617
+  },
+  "13620": {
+    "name": "Takezo's Persistent Resolve",
+    "id": 13620
+  },
+  "13636": {
+    "name": "Sky Dragon King's Symbol",
+    "id": 13636
+  },
+  "13672": {
+    "name": "Hidden Demon's Hood",
+    "id": 13672
+  },
+  "13678": {
+    "name": "Crystal Shell",
+    "id": 13678
+  },
+  "13680": {
+    "name": "Shining Crystal Shell",
+    "id": 13680
+  },
+  "13685": {
+    "name": "Alpaca Crab",
+    "id": 13685
+  },
+  "13689": {
+    "name": "Omniscient Eye",
+    "id": 13689
+  },
+  "13690": {
+    "name": "Wisdom Antennae",
+    "id": 13690
+  },
+  "13723": {
+    "name": "Ice Field Adventure Vest",
+    "id": 13723
+  },
+  "13806": {
+    "name": "Flavored Fruit Tea",
+    "id": 13806
+  },
+  "13809": {
+    "name": "Creamy Sweetened Milk",
+    "id": 13809
+  },
+  "13816": {
+    "name": "Scallop Muscle",
+    "id": 13816
+  },
+  "13818": {
+    "name": "Small Shellfish",
+    "id": 13818
+  },
+  "13833": {
+    "name": "Provincial Mushroom Macaroni",
+    "id": 13833
+  },
+  "13834": {
+    "name": "Gourmet Tomato and Mushroom Noodles",
+    "id": 13834
+  },
+  "13836": {
+    "name": "Dream Honey Glazed Pork Cutlet",
+    "id": 13836
+  },
+  "13837": {
+    "name": "Gourmet Honey Glazed Pork Cutlet",
+    "id": 13837
+  },
+  "13838": {
+    "name": "Chef's Special Vanilla Fried Pork Cutlet",
+    "id": 13838
+  },
+  "13842": {
+    "name": "Gourmet Seafood Broth",
+    "id": 13842
+  },
+  "13844": {
+    "name": "Crispy Cake",
+    "id": 13844
+  },
+  "13845": {
+    "name": "Flower Scented Butter Cake",
+    "id": 13845
+  },
+  "13846": {
+    "name": "Sweet Flower Cake",
+    "id": 13846
+  },
+  "13848": {
+    "name": "Vanilla Seasoned Beef Broth",
+    "id": 13848
+  },
+  "13849": {
+    "name": "Provincial Beef Broth",
+    "id": 13849
+  },
+  "13850": {
+    "name": "Traditional Beef Broth",
+    "id": 13850
+  },
+  "13852": {
+    "name": "Vanilla Emerald Sencha",
+    "id": 13852
+  },
+  "13854": {
+    "name": "Classic Hot Emerald Sencha",
+    "id": 13854
+  },
+  "13856": {
+    "name": "Fresh Corn Salad Wrap",
+    "id": 13856
+  },
+  "13858": {
+    "name": "Stellar Corn Salad Wrap",
+    "id": 13858
+  },
+  "13861": {
+    "name": "Double Honey Nut Drink",
+    "id": 13861
+  },
+  "13862": {
+    "name": "Exquisite Honey Nut Drink",
+    "id": 13862
+  },
+  "13865": {
+    "name": "Fragrant Leaf Fruit Tea",
+    "id": 13865
+  },
+  "13866": {
+    "name": "Extra Strong Honey Fruit Tea",
+    "id": 13866
+  },
+  "13868": {
+    "name": "Sweet Snowdrop Ice Cream",
+    "id": 13868
+  },
+  "13869": {
+    "name": "Honey Snowdrop Ice Cream",
+    "id": 13869
+  },
+  "13870": {
+    "name": "Condensed Snowdrop Ice Cream",
+    "id": 13870
+  },
+  "13872": {
+    "name": "Seafood and Greens Saut with Oyster Sauce",
+    "id": 13872
+  },
+  "13873": {
+    "name": "Luxury Surf 'n' Turf",
+    "id": 13873
+  },
+  "13874": {
+    "name": "Top-Class Seafood and Greens Teppanyaki",
+    "id": 13874
+  },
+  "13876": {
+    "name": "Hot Eggnog",
+    "id": 13876
+  },
+  "13877": {
+    "name": "Lightly Alcoholic Eggnog",
+    "id": 13877
+  },
+  "13878": {
+    "name": "White Prayer Eggnog",
+    "id": 13878
+  },
+  "13879": {
+    "name": "Strengthening Saw",
+    "id": 13879
+  },
+  "13882": {
+    "name": "Sharpening Saw",
+    "id": 13882
+  },
+  "13885": {
+    "name": "Lightening Saw",
+    "id": 13885
+  },
+  "13888": {
+    "name": "Reinforcing Cutter",
+    "id": 13888
+  },
+  "13891": {
+    "name": "Stalwart Iron Cutter",
+    "id": 13891
+  },
+  "13894": {
+    "name": "Balancing Cutter",
+    "id": 13894
+  },
+  "13897": {
+    "name": "Enhanced Strengthening Saw",
+    "id": 13897
+  },
+  "13900": {
+    "name": "Enhanced Sharpening Saw",
+    "id": 13900
+  },
+  "13903": {
+    "name": "Enhanced Lightening Saw",
+    "id": 13903
+  },
+  "13906": {
+    "name": "Enhanced Reinforcing Cutter",
+    "id": 13906
+  },
+  "13909": {
+    "name": "Enhanced Stalwart Iron Cutter",
+    "id": 13909
+  },
+  "13912": {
+    "name": "Enhanced Balancing Cutter",
+    "id": 13912
+  },
+  "13916": {
+    "name": "Dengapa's Resolute Grip",
+    "id": 13916
+  },
+  "13936": {
+    "name": "Sigil of the Aqua-Dragon Queen",
+    "id": 13936
+  },
+  "13937": {
+    "name": "Mysterious Treasure Map Fragment",
+    "id": 13937
+  },
+  "13938": {
+    "name": "Mysterious Treasure Map Scroll",
+    "id": 13938
+  },
+  "14087": {
+    "name": "Tyrant's Scythe of Cruelty",
+    "id": 14087
+  },
+  "14096": {
+    "name": "Slighty Damaged Stone Tablet",
+    "id": 14096
+  },
+  "14098": {
+    "name": "Slighty Damaged Handcrafted Relic",
+    "id": 14098
+  },
+  "14099": {
+    "name": "Slighty Damaged Animal Bones",
+    "id": 14099
+  },
+  "14102": {
+    "name": "Slighty Damaged Treasure",
+    "id": 14102
+  },
+  "14103": {
+    "name": "Slighty Damaged Wisp",
+    "id": 14103
+  },
+  "14104": {
+    "name": "Slighty Damaged Rare Mineral",
+    "id": 14104
+  },
+  "14105": {
+    "name": "Well Preserved Chinaware",
+    "id": 14105
+  },
+  "14106": {
+    "name": "Well Preserved Pottery Shard",
+    "id": 14106
+  },
+  "14107": {
+    "name": "Well Preserved Stone Tablet",
+    "id": 14107
+  },
+  "14108": {
+    "name": "Well Preserved Cultural Relic",
+    "id": 14108
+  },
+  "14109": {
+    "name": "Well Preserved Handcrafted Relic",
+    "id": 14109
+  },
+  "14110": {
+    "name": "Well Preserved Animal Bones",
+    "id": 14110
+  },
+  "14111": {
+    "name": "Well Preserved Marine Fossil",
+    "id": 14111
+  },
+  "14112": {
+    "name": "Well Preserved Energized Crystal",
+    "id": 14112
+  },
+  "14113": {
+    "name": "Well Preserved Treasure",
+    "id": 14113
+  },
+  "14114": {
+    "name": "Well Preserved Wisp",
+    "id": 14114
+  },
+  "14118": {
+    "name": "Top-Quality Stone Tablet",
+    "id": 14118
+  },
+  "14119": {
+    "name": "Top-Quality Cultural Relic",
+    "id": 14119
+  },
+  "14120": {
+    "name": "Top-Quality Handcrafted Relic",
+    "id": 14120
+  },
+  "14121": {
+    "name": "Top-Quality Animal Bones",
+    "id": 14121
+  },
+  "14122": {
+    "name": "Top-Quality Marine Fossils",
+    "id": 14122
+  },
+  "14123": {
+    "name": "Top-Quality Energized Crystal",
+    "id": 14123
+  },
+  "14124": {
+    "name": "Top-Quality Treasure",
+    "id": 14124
+  },
+  "14125": {
+    "name": "Top-Quality Wisp",
+    "id": 14125
+  },
+  "14126": {
+    "name": "Top-Quality Rare Mineral",
+    "id": 14126
+  },
+  "14127": {
+    "name": "Wisdom of the Ancients",
+    "id": 14127
+  },
+  "14242": {
+    "name": "Fire Meteor Mineral",
+    "id": 14242
+  },
+  "14243": {
+    "name": "Glimmering Star Stone",
+    "id": 14243
+  },
+  "14245": {
+    "name": "Pearl of Light",
+    "id": 14245
+  },
+  "14246": {
+    "name": "Heart of Ice",
+    "id": 14246
+  },
+  "14249": {
+    "name": "Inky Gem",
+    "id": 14249
+  },
+  "14250": {
+    "name": "Ice Crystal Plant Extract",
+    "id": 14250
+  },
+  "14253": {
+    "name": "Smelted Alloy",
+    "id": 14253
+  },
+  "14254": {
+    "name": "Titan's Spirit Flower",
+    "id": 14254
+  },
+  "14260": {
+    "name": "Titan's Flaming Soul",
+    "id": 14260
+  },
+  "14281": {
+    "name": "Peerless Strength Potion",
+    "id": 14281
+  },
+  "14285": {
+    "name": "Peerless Agility Potion",
+    "id": 14285
+  },
+  "14286": {
+    "name": "Peerless Fortitude Potion",
+    "id": 14286
+  },
+  "14287": {
+    "name": "Greater Elixir of Flame",
+    "id": 14287
+  },
+  "14288": {
+    "name": "Greater Elixir of Ice",
+    "id": 14288
+  },
+  "14289": {
+    "name": "Greater Elixir of Lightning",
+    "id": 14289
+  },
+  "14290": {
+    "name": "Greater Elixir of Storm",
+    "id": 14290
+  },
+  "14291": {
+    "name": "Greater Elixir of Holy Light",
+    "id": 14291
+  },
+  "14292": {
+    "name": "Greater Elixir of Dark",
+    "id": 14292
+  },
+  "14387": {
+    "name": "Well Preserved Radioactive Stone",
+    "id": 14387
+  },
+  "14388": {
+    "name": "Well Preserved Corroded Ore",
+    "id": 14388
+  },
+  "14389": {
+    "name": "Well Preserved Fallenwisp",
+    "id": 14389
+  },
+  "14390": {
+    "name": "Well Preserved Mutant Remains",
+    "id": 14390
+  },
+  "14391": {
+    "name": "Well Preserved Mana Parasite",
+    "id": 14391
+  },
+  "14392": {
+    "name": "Fine Crumbling Tablet",
+    "id": 14392
+  },
+  "14393": {
+    "name": "Fine Corroded Relics",
+    "id": 14393
+  },
+  "14394": {
+    "name": "Fine Primitive Tool",
+    "id": 14394
+  },
+  "14395": {
+    "name": "Fine Frosted Handcrafted Relic",
+    "id": 14395
+  },
+  "14396": {
+    "name": "Fine Frozen Remains",
+    "id": 14396
+  },
+  "14397": {
+    "name": "Fine Frozen Ore",
+    "id": 14397
+  },
+  "14398": {
+    "name": "Top-Quality Phosphorus Crystal",
+    "id": 14398
+  },
+  "14399": {
+    "name": "Top-Quality Radioactive Stone",
+    "id": 14399
+  },
+  "14400": {
+    "name": "Top-Quality Corroded Ore",
+    "id": 14400
+  },
+  "14401": {
+    "name": "Top-Quality Fallenwisp",
+    "id": 14401
+  },
+  "14402": {
+    "name": "Top-Quality Mutant Remains",
+    "id": 14402
+  },
+  "14403": {
+    "name": "Top-Quality Mana Parasite",
+    "id": 14403
+  },
+  "14404": {
+    "name": "Flawless Crumbling Tablet",
+    "id": 14404
+  },
+  "14405": {
+    "name": "Flawless Corroded Relic",
+    "id": 14405
+  },
+  "14406": {
+    "name": "Flawless Primitive Tool",
+    "id": 14406
+  },
+  "14407": {
+    "name": "Flawless Frosted Handcrafted Relic",
+    "id": 14407
+  },
+  "14408": {
+    "name": "Flawless Frozen Remains",
+    "id": 14408
+  },
+  "14409": {
+    "name": "Flawless Frozen Ore",
+    "id": 14409
+  },
+  "14412": {
+    "name": "Heart of the Ocean",
+    "id": 14412
+  },
+  "14415": {
+    "name": "Phantom Rose",
+    "id": 14415
+  },
+  "14416": {
+    "name": "Glacial Moon",
+    "id": 14416
+  },
+  "14417": {
+    "name": "Warm Heart",
+    "id": 14417
+  },
+  "14419": {
+    "name": "Illusory Shadow Hood",
+    "id": 14419
+  },
+  "14420": {
+    "name": "Illusory Shadow Suit",
+    "id": 14420
+  },
+  "14421": {
+    "name": "Illusory Shadow Armband",
+    "id": 14421
+  },
+  "14424": {
+    "name": "Reversed Scale Pauldron",
+    "id": 14424
+  },
+  "14425": {
+    "name": "Reversed Scale Gloves",
+    "id": 14425
+  },
+  "14427": {
+    "name": "Rampaging Ronin Helmet",
+    "id": 14427
+  },
+  "14428": {
+    "name": "Rampaging Ronin Armor",
+    "id": 14428
+  },
+  "14448": {
+    "name": "Large Cricket",
+    "id": 14448
+  },
+  "14452": {
+    "name": "Fresh Sirloin",
+    "id": 14452
+  },
+  "14456": {
+    "name": "Flame Red Fish",
+    "id": 14456
+  },
+  "14460": {
+    "name": "Blue Hardscale Fish",
+    "id": 14460
+  },
+  "14461": {
+    "name": "Colorful Hardscale Fish",
+    "id": 14461
+  },
+  "14462": {
+    "name": "Princess Hardscale Fish",
+    "id": 14462
+  },
+  "14463": {
+    "name": "Poison Frog",
+    "id": 14463
+  },
+  "14464": {
+    "name": "Purple Poison Frog",
+    "id": 14464
+  },
+  "14467": {
+    "name": "Thornfang Fish",
+    "id": 14467
+  },
+  "14471": {
+    "name": "Crimson Wisp Jellyfish",
+    "id": 14471
+  },
+  "14476": {
+    "name": "Hypnosis Skin",
+    "id": 14476
+  },
+  "14477": {
+    "name": "Hypnosis Powder",
+    "id": 14477
+  },
+  "14479": {
+    "name": "Bloodthirsty Fangs",
+    "id": 14479
+  },
+  "14480": {
+    "name": "Bloodthirsty Skin",
+    "id": 14480
+  },
+  "14481": {
+    "name": "Flame Tentacle",
+    "id": 14481
+  },
+  "14482": {
+    "name": "Crimson Body",
+    "id": 14482
+  },
+  "14483": {
+    "name": "Crimson Tentacle",
+    "id": 14483
+  },
+  "14484": {
+    "name": "Ice Field Frost Turtle Shell",
+    "id": 14484
+  },
+  "14485": {
+    "name": "Ice Field Continent Turtle Armor",
+    "id": 14485
+  },
+  "14528": {
+    "name": "Meteor-Enhanced Hat",
+    "id": 14528
+  },
+  "14539": {
+    "name": "Silent Ice Field Sweater",
+    "id": 14539
+  },
+  "14613": {
+    "name": "Giant Mushroom",
+    "id": 14613
+  },
+  "14615": {
+    "name": "Stardust Flower Honey",
+    "id": 14615
+  },
+  "14932": {
+    "name": "Priest's Ritual Cape",
+    "id": 14932
+  },
+  "14933": {
+    "name": "Priest's Ritual Necklace",
+    "id": 14933
+  },
+  "14934": {
+    "name": "Priest's Ritual Ring",
+    "id": 14934
+  },
+  "14939": {
+    "name": "Six Wings: Heavenly Sword and Shield",
+    "id": 14939
+  },
+  "14955": {
+    "name": "Overlord's Artillery",
+    "id": 14955
+  },
+  "14956": {
+    "name": "Overlord's Grimoire",
+    "id": 14956
+  },
+  "14957": {
+    "name": "Overlord's Harp",
+    "id": 14957
+  },
+  "14959": {
+    "name": "Overlord's War Bow",
+    "id": 14959
+  },
+  "14960": {
+    "name": "Overlord's Tachi",
+    "id": 14960
+  },
+  "14961": {
+    "name": "Overlord's Sickle",
+    "id": 14961
+  },
+  "14966": {
+    "name": "Von's True Notes",
+    "id": 14966
+  },
+  "14967": {
+    "name": "Black Knight's Promissory Breastpin",
+    "id": 14967
+  },
+  "14996": {
+    "name": "Stalwart Commander's Helmet",
+    "id": 14996
+  },
+  "14997": {
+    "name": "Stalwart Commander's Armor",
+    "id": 14997
+  },
+  "14999": {
+    "name": "Stalwart Commander's Boots",
+    "id": 14999
+  },
+  "15000": {
+    "name": "Stalwart Commander's Belt",
+    "id": 15000
+  },
+  "15002": {
+    "name": "Battleground Wargod's Breastplate",
+    "id": 15002
+  },
+  "15003": {
+    "name": "Battleground Wargod's Bracelet",
+    "id": 15003
+  },
+  "15004": {
+    "name": "Battleground Wargod's Boots",
+    "id": 15004
+  },
+  "15005": {
+    "name": "Battleground Wargod's Belt",
+    "id": 15005
+  },
+  "15006": {
+    "name": "Stalwart Commander's Necklace",
+    "id": 15006
+  },
+  "15007": {
+    "name": "Stalwart Commander's Ring",
+    "id": 15007
+  },
+  "15008": {
+    "name": "Stalwart Commander's Cloak",
+    "id": 15008
+  },
+  "15010": {
+    "name": "Battleground Wargod's Ring",
+    "id": 15010
+  },
+  "15011": {
+    "name": "Battleground Wargod's Shawl",
+    "id": 15011
+  },
+  "15015": {
+    "name": "Sage Stone",
+    "id": 15015
+  },
+  "15025": {
+    "name": "Greater Stamina Tonic",
+    "id": 15025
+  },
+  "15027": {
+    "name": "Greater Fortitude Tonic",
+    "id": 15027
+  },
+  "15028": {
+    "name": "Superior Strength Tonic",
+    "id": 15028
+  },
+  "15029": {
+    "name": "Superior Fury Tonic",
+    "id": 15029
+  },
+  "15031": {
+    "name": "Superior Stamina Tonic",
+    "id": 15031
+  },
+  "15079": {
+    "name": "Powder of Residual Nightmares",
+    "id": 15079
+  },
+  "15080": {
+    "name": "Legendary Dream Brew",
+    "id": 15080
+  },
+  "15236": {
+    "name": "Copper Skillet",
+    "id": 15236
+  },
+  "15237": {
+    "name": "Steel Chef's Knife",
+    "id": 15237
+  },
+  "15238": {
+    "name": "Obsidian Kitchen Set",
+    "id": 15238
+  },
+  "15239": {
+    "name": "Navea Seasoned Skillet",
+    "id": 15239
+  },
+  "15240": {
+    "name": "Navea Chef's Knife",
+    "id": 15240
+  },
+  "15241": {
+    "name": "Navea Kitchen Set",
+    "id": 15241
+  },
+  "15242": {
+    "name": "Torian's Refined Skillet",
+    "id": 15242
+  },
+  "15243": {
+    "name": "Torian's Refined Kitchen Knife",
+    "id": 15243
+  },
+  "15244": {
+    "name": "Torian's Refined Cooking Set",
+    "id": 15244
+  },
+  "15245": {
+    "name": "Flaming Kitchen Set",
+    "id": 15245
+  },
+  "15577": {
+    "name": "Fine Magic Crystal",
+    "id": 15577
+  },
+  "15605": {
+    "name": "Cliffside Blossom",
+    "id": 15605
+  },
+  "15682": {
+    "name": "Hurricane Wargod Boots",
+    "id": 15682
+  },
+  "15889": {
+    "name": "Overlord's Sword",
+    "id": 15889
+  },
+  "16233": {
+    "name": "Wind Ore",
+    "id": 16233
+  },
+  "16234": {
+    "name": "Brilliant Star Stone",
+    "id": 16234
+  },
+  "16235": {
+    "name": "Glitterdust",
+    "id": 16235
+  },
+  "16236": {
+    "name": "Mana Blood Crystal",
+    "id": 16236
+  },
+  "16237": {
+    "name": "Rock of Holy Light",
+    "id": 16237
+  },
+  "16238": {
+    "name": "Corrosive Bitumen",
+    "id": 16238
+  },
+  "16239": {
+    "name": "Ancient Creature Remains",
+    "id": 16239
+  },
+  "16240": {
+    "name": "Emerald Moon Stone",
+    "id": 16240
+  },
+  "16242": {
+    "name": "Soulsucker Ore",
+    "id": 16242
+  },
+  "16244": {
+    "name": "Seer's Willow",
+    "id": 16244
+  },
+  "16245": {
+    "name": "Soul Alloy",
+    "id": 16245
+  },
+  "16252": {
+    "name": "Power Guardian Armor Core",
+    "id": 16252
+  },
+  "16255": {
+    "name": "Power Guardian Waist Core",
+    "id": 16255
+  },
+  "16257": {
+    "name": "Power Guardian Accessory Core",
+    "id": 16257
+  },
+  "17141": {
+    "name": "Hibiscus Platter",
+    "id": 17141
+  },
+  "21458": {
+    "name": "Cruel Tyrant's Draco-Puppet",
+    "id": 21458
+  },
+  "21636": {
+    "name": "Power of the Fox Wind",
+    "id": 21636
+  },
+  "22639": {
+    "name": "Catseye Glass",
+    "id": 22639
+  },
+  "34419": {
+    "name": "Allen's Evolution Orb (Non-tradable)",
+    "id": 34419
+  },
+  "34420": {
+    "name": "Merrilee's Evolution Orb (Non-tradable)",
+    "id": 34420
+  },
+  "34421": {
+    "name": "Grimm's Evolution Orb (Non-tradable)",
+    "id": 34421
+  },
+  "34422": {
+    "name": "Alessa's Evolution Orb (Non-tradable)",
+    "id": 34422
+  },
+  "34423": {
+    "name": "Alina's Evolution Orb (Non-tradable)",
+    "id": 34423
+  },
+  "34424": {
+    "name": "Chiyu's Evolution Orb (Non-tradable)",
+    "id": 34424
+  },
+  "34425": {
+    "name": "Gigas's Evolution Orb (Non-tradable)",
+    "id": 34425
+  },
+  "34426": {
+    "name": "Aelius's Evolution Orb (Non-tradable)",
+    "id": 34426
+  },
+  "34427": {
+    "name": "Abraxas's Evolution Orb (Non-tradable)",
+    "id": 34427
+  },
+  "34428": {
+    "name": "Benkei's Evolution Orb (Non-tradable)",
+    "id": 34428
+  },
+  "34429": {
+    "name": "Faust's Evolution Orb (Non-tradable)",
+    "id": 34429
+  },
+  "34430": {
+    "name": "Eligos's Evolution Orb (Non-tradable)",
+    "id": 34430
+  },
+  "34431": {
+    "name": "Sigrun's Evolution Orb (Non-tradable)",
+    "id": 34431
+  },
+  "34432": {
+    "name": "Nalani's Evolution Orb (Non-tradable)",
+    "id": 34432
+  },
+  "34433": {
+    "name": "Uzuriel's Evolution Orb (Non-tradable)",
+    "id": 34433
+  },
+  "34434": {
+    "name": "Tanith's Evolution Orb (Non-tradable)",
+    "id": 34434
+  },
+  "34435": {
+    "name": "Maja's Evolution Orb (Non-tradable)",
+    "id": 34435
+  },
+  "34436": {
+    "name": "Bel-Chandra's Evolution Orb (Non-tradable)",
+    "id": 34436
+  },
+  "34437": {
+    "name": "Vayu's Evolution Orb (Non-tradable)",
+    "id": 34437
+  },
+  "34438": {
+    "name": "Nazrudin's Evolution Orb (Non-tradable)",
+    "id": 34438
+  },
+  "34439": {
+    "name": "Yarnaros' Evolution Orb (Non-tradable)",
+    "id": 34439
+  },
+  "34440": {
+    "name": "Ghodroon's Evolution Orb (Non-tradable)",
+    "id": 34440
+  },
+  "34441": {
+    "name": "Quelkulan's Evolution Orb (Non-tradable)",
+    "id": 34441
+  },
+  "34442": {
+    "name": "Zaahir's Evolution Orb (Non-tradable)",
+    "id": 34442
+  },
+  "34443": {
+    "name": "Cyril's Evolution Orb (Non-tradable)",
+    "id": 34443
+  },
+  "34444": {
+    "name": "Kotonoha's Evolution Orb (Non-tradable)",
+    "id": 34444
+  },
+  "34445": {
+    "name": "Tigerius Caesar's Evolution Orb (Non-tradable)",
+    "id": 34445
+  },
+  "34446": {
+    "name": "Bahadur's Evolution Orb (Non-tradable)",
+    "id": 34446
+  },
+  "34447": {
+    "name": "Tsubaki's Evolution Orb (Non-tradable)",
+    "id": 34447
+  },
+  "34448": {
+    "name": "Cleopawtra's Evolution Orb (Non-tradable)",
+    "id": 34448
+  },
+  "34449": {
+    "name": "Serena's Evolution Orb (Non-tradable)",
+    "id": 34449
+  },
+  "34450": {
+    "name": "Endora's Evolution Orb (Non-tradable)",
+    "id": 34450
+  },
+  "34451": {
+    "name": "Vermilion's Evolution Orb (Non-tradable)",
+    "id": 34451
+  },
+  "34452": {
+    "name": "Shirayuki's Evolution Orb (Non-tradable)",
+    "id": 34452
+  },
+  "34453": {
+    "name": "Kaiser Zeta's Evolution Orb (Non-tradable)",
+    "id": 34453
+  },
+  "34454": {
+    "name": "Hel's Evolution Orb (Non-tradable)",
+    "id": 34454
+  },
+  "34455": {
+    "name": "Alucard's Evolution Orb (Non-tradable)",
+    "id": 34455
+  },
+  "34456": {
+    "name": "Bealdor's Evolution Orb (Non-tradable)",
+    "id": 34456
+  },
+  "34457": {
+    "name": "Kusanagi's Evolution Orb (Non-tradable)",
+    "id": 34457
+  },
+  "34458": {
+    "name": "Hansen and Gretta's Evolution Orb (Non-tradable)",
+    "id": 34458
+  },
+  "34459": {
+    "name": "Astraea's Evolution Orb (Non-tradable)",
+    "id": 34459
+  },
+  "34460": {
+    "name": "Cesela's Evolution Orb (Non-tradable)",
+    "id": 34460
+  },
+  "34461": {
+    "name": "Diao Chan's Evolution Orb (Non-tradable)",
+    "id": 34461
+  },
+  "34462": {
+    "name": "Uriel's Evolution Orb (Non-tradable)",
+    "id": 34462
+  },
+  "34463": {
+    "name": "Amaterasu's Evolution Orb (Non-tradable)",
+    "id": 34463
+  },
+  "34464": {
+    "name": "Alice's Evolution Orb (Non-tradable)",
+    "id": 34464
+  },
+  "34465": {
+    "name": "Ayako's Evolution Orb (Non-tradable)",
+    "id": 34465
+  },
+  "34466": {
+    "name": "Eternia's Evolution Orb (Non-tradable)",
+    "id": 34466
+  },
+  "34467": {
+    "name": "Yumikaze's Evolution Orb (Non-tradable)",
+    "id": 34467
+  },
+  "34468": {
+    "name": "Zephyrine's Evolution Orb (Non-tradable)",
+    "id": 34468
+  },
+  "34469": {
+    "name": "Dante's Evolution Orb (Non-tradable)",
+    "id": 34469
+  },
+  "34470": {
+    "name": "Harmonia's Evolution Orb (Non-tradable)",
+    "id": 34470
+  },
+  "34471": {
+    "name": "Zashi's Evolution Orb (Non-tradable)",
+    "id": 34471
+  },
+  "34472": {
+    "name": "Muse's Evolution Orb (Non-tradable)",
+    "id": 34472
+  },
+  "34473": {
+    "name": "Snow White's Evolution Orb (Non-tradable)",
+    "id": 34473
+  },
+  "34474": {
+    "name": "Tyr's Evolution Orb (Non-tradable)",
+    "id": 34474
+  },
+  "34475": {
+    "name": "Pandora's Evolution Orb (Non-tradable)",
+    "id": 34475
+  },
+  "34476": {
+    "name": "White Tiger's Evolution Orb (Non-tradable)",
+    "id": 34476
+  },
+  "34477": {
+    "name": "Undine's Evolution Orb (Non-tradable)",
+    "id": 34477
+  },
+  "34478": {
+    "name": "Verdandi's Evolution Orb (Non-tradable)",
+    "id": 34478
+  },
+  "34479": {
+    "name": "Justicia's Evolution Orb (Non-tradable)",
+    "id": 34479
+  },
+  "34480": {
+    "name": "Michaela's Evolution Orb (Non-tradable)",
+    "id": 34480
+  },
+  "34481": {
+    "name": "Muramasa's Evolution Orb (Non-tradable)",
+    "id": 34481
+  },
+  "34482": {
+    "name": "Venus's Evolution Orb (Non-tradable)",
+    "id": 34482
+  },
+  "34483": {
+    "name": "Izanami's Evolution Orb (Non-tradable)",
+    "id": 34483
+  },
+  "34484": {
+    "name": "Hebe's Evolution Orb (Non-tradable)",
+    "id": 34484
+  },
+  "34485": {
+    "name": "Eirene's Evolution Orb (Non-tradable)",
+    "id": 34485
+  },
+  "34486": {
+    "name": "Demeter's Evolution Orb (Non-tradable)",
+    "id": 34486
+  },
+  "34487": {
+    "name": "Hades' Evolution Orb (Non-tradable)",
+    "id": 34487
+  },
+  "34488": {
+    "name": "Hermes' Evolution Orb (Non-tradable)",
+    "id": 34488
+  },
+  "34489": {
+    "name": "Succubus Evolution Orb (Non-tradable)",
+    "id": 34489
+  },
+  "34490": {
+    "name": "Cerberus's Evolution Orb (Non-tradable)",
+    "id": 34490
+  },
+  "34491": {
+    "name": "Idun's Evolution Orb (Non-tradable)",
+    "id": 34491
+  },
+  "34492": {
+    "name": "Nidhogg's Evolution Orb (Non-tradable)",
+    "id": 34492
+  },
+  "34493": {
+    "name": "Santa Tyr's Evolution Orb (Non-tradable)",
+    "id": 34493
+  },
+  "34494": {
+    "name": "Santa Ayako's Evolution Orb (Non-tradable)",
+    "id": 34494
+  },
+  "34495": {
+    "name": "Bluebird's Evolution Orb (Non-tradable)",
+    "id": 34495
+  },
+  "34496": {
+    "name": "Festival Muramasa's Evolution Orb (Non-tradable)",
+    "id": 34496
+  },
+  "34497": {
+    "name": "Elizabeth's Evolution Orb (Non-tradable)",
+    "id": 34497
+  },
+  "34498": {
+    "name": "Seiryuu's Evolution Orb (Non-tradable)",
+    "id": 34498
+  },
+  "34499": {
+    "name": "Aoandon's Evolution Orb (Non-tradable)",
+    "id": 34499
+  },
+  "34500": {
+    "name": "Sif's Evolution Orb (Non-tradable)",
+    "id": 34500
+  },
+  "34501": {
+    "name": "Ares' Evolution Orb (Non-tradable)",
+    "id": 34501
+  },
+  "34502": {
+    "name": "Summer Alucard's Evolution Orb (Non-tradable)",
+    "id": 34502
+  },
+  "34503": {
+    "name": "Summer Nidhogg's Evolution Orb (Non-tradable)",
+    "id": 34503
+  },
+  "34504": {
+    "name": "Tsukuyomi's Evolution Orb (Non-tradable)",
+    "id": 34504
+  },
+  "34505": {
+    "name": "Ullr's Evolution Orb (Non-tradable)",
+    "id": 34505
+  },
+  "34506": {
+    "name": "Halloween Zashi Evolution Orb (Non-tradable)",
+    "id": 34506
+  },
+  "34507": {
+    "name": "Sakuya-hime's Evolution Orb (Non-tradable)",
+    "id": 34507
+  },
+  "34508": {
+    "name": "Santa Lumikki's Evolution Orb (Non-tradable)",
+    "id": 34508
+  },
+  "34509": {
+    "name": "Santa Alice's Evolution Orb (Non-tradable)",
+    "id": 34509
+  },
+  "34510": {
+    "name": "Iwanaga-hime's Evolution Orb (Non-tradable)",
+    "id": 34510
+  },
+  "34511": {
+    "name": "Andrea's Evolution Orb (Non-tradable)",
+    "id": 34511
+  },
+  "34512": {
+    "name": "Urd's Evolution Orb (Non-tradable)",
+    "id": 34512
+  },
+  "34513": {
+    "name": "Skuld's Evolution Orb (Non-tradable)",
+    "id": 34513
+  },
+  "34514": {
+    "name": "Kingyo-hime's Evolution Orb (Non-tradable)",
+    "id": 34514
+  },
+  "34515": {
+    "name": "Persephone's Evolution Orb (Non-tradable)",
+    "id": 34515
+  },
+  "34516": {
+    "name": "Summer Michaela's Evolution Orb (Non-tradable)",
+    "id": 34516
+  },
+  "34517": {
+    "name": "Otohime's Evolution Orb (Non-tradable)",
+    "id": 34517
+  },
+  "34518": {
+    "name": "Bastet's Evolution Orb (Non-tradable)",
+    "id": 34518
+  },
+  "34519": {
+    "name": "Halloween Zephyrine's Evolution Orb (Non-tradable)",
+    "id": 34519
+  },
+  "34520": {
+    "name": "Orochi's Evolution Orb (Non-tradable)",
+    "id": 34520
+  },
+  "34521": {
+    "name": "Santa Muse's Evolution Orb (Non-tradable)",
+    "id": 34521
+  },
+  "34522": {
+    "name": "Santa Amaterasu's Evolution Orb (Non-tradable)",
+    "id": 34522
+  },
+  "34523": {
+    "name": "Festival Succubus Evolution Orb (Non-tradable)",
+    "id": 34523
+  },
+  "34524": {
+    "name": "Thumbelina's Evolution Orb (Non-tradable)",
+    "id": 34524
+  },
+  "34525": {
+    "name": "Genbu's Evolution Orb (Non-tradable)",
+    "id": 34525
+  },
+  "34526": {
+    "name": "Raphael's Evolution Orb (Non-tradable)",
+    "id": 34526
+  },
+  "34527": {
+    "name": "Inaba's Evolution Orb (Non-tradable)",
+    "id": 34527
+  },
+  "34528": {
+    "name": "Salome's Evolution Orb (Non-tradable)",
+    "id": 34528
+  },
+  "34529": {
+    "name": "Summer Persephone's Evolution Orb (Non-tradable)",
+    "id": 34529
+  },
+  "34530": {
+    "name": "Abe no Seimei's Evolution Orb (Non-tradable)",
+    "id": 34530
+  },
+  "34531": {
+    "name": "Rachel's Evolution Orb (Non-tradable)",
+    "id": 34531
+  },
+  "34532": {
+    "name": "Nekomata's Evolution Orb (Non-tradable)",
+    "id": 34532
+  },
+  "34533": {
+    "name": "The Evolution Orb of the Queen of Hearts (Non-tradable)",
+    "id": 34533
+  },
+  "34534": {
+    "name": "Santa Raphael's Evolution Orb (Non-tradable)",
+    "id": 34534
+  },
+  "34535": {
+    "name": "Santa Idun's Evolution Orb (Non-tradable)",
+    "id": 34535
+  },
+  "34536": {
+    "name": "Hestia's Evolution Orb (Non-tradable)",
+    "id": 34536
+  },
+  "34537": {
+    "name": "Festival Elizabeth's Evolution Orb (Non-tradable)",
+    "id": 34537
+  },
+  "34538": {
+    "name": "Little Red Riding Hood's Evolution Orb (Non-tradable)",
+    "id": 34538
+  },
+  "34539": {
+    "name": "Komainu's Evolution Orb (Non-tradable)",
+    "id": 34539
+  },
+  "34540": {
+    "name": "Percival's Evolution Orb (Non-tradable)",
+    "id": 34540
+  },
+  "34541": {
+    "name": "Siren's Evolution Orb (Non-tradable)",
+    "id": 34541
+  },
+  "34542": {
+    "name": "Summer Iwanaga-hime's Evolution Orb (Non-tradable)",
+    "id": 34542
+  },
+  "34543": {
+    "name": "Frigga's Evolution Orb (Non-tradable)",
+    "id": 34543
+  },
+  "34544": {
+    "name": "H鐰ur's Evolution Orb (Non-tradable)",
+    "id": 34544
+  },
+  "34545": {
+    "name": "Shutendoji's Evolution Orb (Non-tradable)",
+    "id": 34545
+  },
+  "34546": {
+    "name": "Xiaoqiao's Evolution Orb (Non-tradable)",
+    "id": 34546
+  },
+  "34547": {
+    "name": "Christmas Komainu Evolution Orb (Non-tradable)",
+    "id": 34547
+  },
+  "34548": {
+    "name": "Christmas Kingyo-hime's Evolution Orb (Non-tradable)",
+    "id": 34548
+  },
+  "34549": {
+    "name": "New Year Hestia's Evolution Orb (Non-tradable)",
+    "id": 34549
+  },
+  "34550": {
+    "name": "Miketsu's Evolution Orb (Non-tradable)",
+    "id": 34550
+  },
+  "34551": {
+    "name": "Aladdin's Evolution Orb (Non-tradable)",
+    "id": 34551
+  },
+  "34552": {
+    "name": "Princess Kaguya's Evolution Orb (Non-tradable)",
+    "id": 34552
+  },
+  "34553": {
+    "name": "Eris's Evolution Orb (Non-tradable)",
+    "id": 34553
+  },
+  "34554": {
+    "name": "Da Qiao's Evolution Orb (Non-tradable)",
+    "id": 34554
+  },
+  "34555": {
+    "name": "Summer Shutendoji's Evolution Orb (Non-tradable)",
+    "id": 34555
+  },
+  "34556": {
+    "name": "Gaia's Evolution Orb (Non-tradable)",
+    "id": 34556
+  },
+  "34557": {
+    "name": "Jormungand's Evolution Orb (Non-tradable)",
+    "id": 34557
+  },
+  "34558": {
+    "name": "Anubis's Evolution Orb (Non-tradable)",
+    "id": 34558
+  },
+  "34559": {
+    "name": "Thor's Evolution Orb (Non-tradable)",
+    "id": 34559
+  },
+  "34560": {
+    "name": "Christmas Andrea's Evolution Orb (Non-tradable)",
+    "id": 34560
+  },
+  "34561": {
+    "name": "Christmas Sakuya-hime's Evolution Orb (Non-tradable)",
+    "id": 34561
+  },
+  "34805": {
+    "name": "Christmas Little Red Riding Hood's Evolution Orb",
+    "id": 34805
+  },
+  "35454": {
+    "name": "Alice's Oath Ring (Non-tradable)",
+    "id": 35454
+  },
+  "35455": {
+    "name": "Ayako's Oath Ring (Non-tradable)",
+    "id": 35455
+  },
+  "35456": {
+    "name": "Eternia's Oath Ring (Non-tradable)",
+    "id": 35456
+  },
+  "35457": {
+    "name": "Yumikaze's Oath Ring (Non-tradable)",
+    "id": 35457
+  },
+  "35458": {
+    "name": "Zephyrine's Oath Ring (Non-tradable)",
+    "id": 35458
+  },
+  "35459": {
+    "name": "Dante's Oath Ring (Non-tradable)",
+    "id": 35459
+  },
+  "35460": {
+    "name": "Harmonia's Oath Ring (Non-tradable)",
+    "id": 35460
+  },
+  "35461": {
+    "name": "Zashi's Oath Ring (Non-tradable)",
+    "id": 35461
+  },
+  "35462": {
+    "name": "Muse's Oath Ring (Non-tradable)",
+    "id": 35462
+  },
+  "35463": {
+    "name": "Oath Ring of Snow White (Non-tradable)",
+    "id": 35463
+  },
+  "35464": {
+    "name": "Tyr's Oath Ring (Non-tradable)",
+    "id": 35464
+  },
+  "35465": {
+    "name": "Pandora's Oath Ring (Limited)",
+    "id": 35465
+  },
+  "35466": {
+    "name": "Kitami's Oath Ring (Non-tradable)",
+    "id": 35466
+  },
+  "35467": {
+    "name": "Undine's Oath Ring (Non-tradable)",
+    "id": 35467
+  },
+  "35468": {
+    "name": "Verdandi's Oath Ring (Non-tradable)",
+    "id": 35468
+  },
+  "35469": {
+    "name": "Justicia's Oath Ring (Non-tradable)",
+    "id": 35469
+  },
+  "35470": {
+    "name": "Venus's Oath Ring (Non-tradable)",
+    "id": 35470
+  },
+  "35471": {
+    "name": "Izanami's Oath Ring (Non-tradable)",
+    "id": 35471
+  },
+  "35472": {
+    "name": "Hebe's Oath Ring (Non-tradable)",
+    "id": 35472
+  },
+  "35473": {
+    "name": "Eirene's Oath Ring (Non-tradable)",
+    "id": 35473
+  },
+  "35474": {
+    "name": "Michaela's Oath Ring (Non-tradable)",
+    "id": 35474
+  },
+  "35475": {
+    "name": "Demeter's Oath Ring (Non-tradable)",
+    "id": 35475
+  },
+  "35476": {
+    "name": "Hermes' Oath Ring (Non-tradable)",
+    "id": 35476
+  },
+  "35477": {
+    "name": "Cerberus's Oath Ring (Non-tradable)",
+    "id": 35477
+  },
+  "35481": {
+    "name": "Summer Guan Yu's Evolution Orb",
+    "id": 35481
+  },
+  "40201": {
+    "name": "Brilliant Evolutionary Beads",
+    "id": 40201
+  },
+  "40218": {
+    "name": "Serena's Key of Gaia",
+    "id": 40218
+  },
+  "40219": {
+    "name": "Serena's Key Fragment",
+    "id": 40219
+  },
+  "40251": {
+    "name": "Endora's Key of Gaia",
+    "id": 40251
+  },
+  "40252": {
+    "name": "Endora's Key Fragment",
+    "id": 40252
+  },
+  "40272": {
+    "name": "Vermilion's Key of Gaia",
+    "id": 40272
+  },
+  "40273": {
+    "name": "Vermilion's Key Fragment",
+    "id": 40273
+  },
+  "40287": {
+    "name": "Shirayuki's Key of Gaia",
+    "id": 40287
+  },
+  "40288": {
+    "name": "Shirayuki's Key Fragment",
+    "id": 40288
+  },
+  "40326": {
+    "name": "Kaiser Zeta's Key of Gaia",
+    "id": 40326
+  },
+  "40327": {
+    "name": "Kaiser Zeta's Key Fragment",
+    "id": 40327
+  },
+  "40328": {
+    "name": "Hel's Key of Gaia",
+    "id": 40328
+  },
+  "40329": {
+    "name": "Hel's Key Fragment",
+    "id": 40329
+  },
+  "40332": {
+    "name": "Alucard's Key of Gaia",
+    "id": 40332
+  },
+  "40333": {
+    "name": "Alucard's Key Fragment",
+    "id": 40333
+  },
+  "40340": {
+    "name": "Bealdor's Key of Gaia",
+    "id": 40340
+  },
+  "40341": {
+    "name": "Bealdor's Key Fragment",
+    "id": 40341
+  },
+  "40352": {
+    "name": "Kusanagi's Key of Gaia",
+    "id": 40352
+  },
+  "40353": {
+    "name": "Kusanagi's Key Fragment",
+    "id": 40353
+  },
+  "40361": {
+    "name": "Astraea's Key of Gaia",
+    "id": 40361
+  },
+  "40362": {
+    "name": "Astraea's Key Fragment",
+    "id": 40362
+  },
+  "40389": {
+    "name": "Hansel and Gretel's Key of Gaia",
+    "id": 40389
+  },
+  "40390": {
+    "name": "Hansel and Gretel's Key Fragment",
+    "id": 40390
+  },
+  "40391": {
+    "name": "Cesela's Key of Gaia",
+    "id": 40391
+  },
+  "40392": {
+    "name": "Cesela's Key Fragment",
+    "id": 40392
+  },
+  "40478": {
+    "name": "Diao Chan's Key of Gaia",
+    "id": 40478
+  },
+  "40479": {
+    "name": "Diao Chan's Key Fragment",
+    "id": 40479
+  },
+  "40528": {
+    "name": "Uriel's Key of Gaia",
+    "id": 40528
+  },
+  "40529": {
+    "name": "Uriel's Key Fragment",
+    "id": 40529
+  },
+  "40571": {
+    "name": "Amaterasu's Key of Gaia",
+    "id": 40571
+  },
+  "40572": {
+    "name": "Amaterasu's Key Fragment",
+    "id": 40572
+  },
+  "40589": {
+    "name": "Alice's Key of Gaia",
+    "id": 40589
+  },
+  "40590": {
+    "name": "Alice's Key Fragment",
+    "id": 40590
+  },
+  "40616": {
+    "name": "Ayako's Key of Gaia",
+    "id": 40616
+  },
+  "40617": {
+    "name": "Ayako's Key Fragment",
+    "id": 40617
+  },
+  "40621": {
+    "name": "Eternia's Key of Gaia",
+    "id": 40621
+  },
+  "40622": {
+    "name": "Eternia's Key Fragment",
+    "id": 40622
+  },
+  "40626": {
+    "name": "Yumikaze's Key of Gaia",
+    "id": 40626
+  },
+  "40627": {
+    "name": "Yumikaze's Key Fragment",
+    "id": 40627
+  },
+  "40628": {
+    "name": "Zephyrine's Key of Gaia",
+    "id": 40628
+  },
+  "40629": {
+    "name": "Zephyrine's Key Fragment",
+    "id": 40629
+  },
+  "40631": {
+    "name": "Dante's Key of Gaia",
+    "id": 40631
+  },
+  "40632": {
+    "name": "Dante's Key Fragment",
+    "id": 40632
+  },
+  "40678": {
+    "name": "Harmonia's Key of Gaia",
+    "id": 40678
+  },
+  "40679": {
+    "name": "Harmonia's Key Fragment",
+    "id": 40679
+  },
+  "40686": {
+    "name": "Zashi's Key of Gaia",
+    "id": 40686
+  },
+  "40687": {
+    "name": "Zashi's Key Fragment",
+    "id": 40687
+  },
+  "40709": {
+    "name": "Muse's Key of Gaia",
+    "id": 40709
+  },
+  "40710": {
+    "name": "Muse's Key Fragment",
+    "id": 40710
+  },
+  "40714": {
+    "name": "Lumikki's Key of Gaia",
+    "id": 40714
+  },
+  "40715": {
+    "name": "Lumikki's Key Fragment",
+    "id": 40715
+  },
+  "40718": {
+    "name": "Tyr's Key of Gaia",
+    "id": 40718
+  },
+  "40719": {
+    "name": "Tyr's Key Fragment",
+    "id": 40719
+  },
+  "40734": {
+    "name": "Pandora's Key of Gaia",
+    "id": 40734
+  },
+  "40735": {
+    "name": "Pandora's Key Fragment",
+    "id": 40735
+  },
+  "40741": {
+    "name": "Kitami's Key of Gaia",
+    "id": 40741
+  },
+  "40742": {
+    "name": "Kitami's Key Fragment",
+    "id": 40742
+  },
+  "40751": {
+    "name": "Undine's Key of Gaia",
+    "id": 40751
+  },
+  "40752": {
+    "name": "Undine's Key Fragment",
+    "id": 40752
+  },
+  "40754": {
+    "name": "Verdandi's Key of Gaia",
+    "id": 40754
+  },
+  "40755": {
+    "name": "Verdandi's Key Fragment",
+    "id": 40755
+  },
+  "40766": {
+    "name": "Justicia's Key of Gaia",
+    "id": 40766
+  },
+  "40767": {
+    "name": "Justicia's Key Fragment",
+    "id": 40767
+  },
+  "40772": {
+    "name": "Michaela's Key of Gaia",
+    "id": 40772
+  },
+  "40773": {
+    "name": "Michaela's Key Fragment",
+    "id": 40773
+  },
+  "40774": {
+    "name": "Muramasa's Key of Gaia",
+    "id": 40774
+  },
+  "40775": {
+    "name": "Muramasa's Key Fragment",
+    "id": 40775
+  },
+  "40776": {
+    "name": "Venus' Key of Gaia",
+    "id": 40776
+  },
+  "40777": {
+    "name": "Venus' Key Fragment",
+    "id": 40777
+  },
+  "40778": {
+    "name": "Izanami's Key of Gaia",
+    "id": 40778
+  },
+  "40779": {
+    "name": "Izanami's Key Fragment",
+    "id": 40779
+  },
+  "40780": {
+    "name": "Hebe's Key of Gaia",
+    "id": 40780
+  },
+  "40781": {
+    "name": "Hebe's Key Fragment",
+    "id": 40781
+  },
+  "40782": {
+    "name": "Eidolon Oath Ring",
+    "id": 40782
+  },
+  "40786": {
+    "name": "Eirene's Key of Gaia",
+    "id": 40786
+  },
+  "40787": {
+    "name": "Eirene's Key Fragment",
+    "id": 40787
+  },
+  "40790": {
+    "name": "Demeter's Key of Gaia",
+    "id": 40790
+  },
+  "40791": {
+    "name": "Demeter's Key Fragment",
+    "id": 40791
+  },
+  "40795": {
+    "name": "Hades' Key of Gaia",
+    "id": 40795
+  },
+  "40796": {
+    "name": "Hades' Key Fragment",
+    "id": 40796
+  },
+  "40812": {
+    "name": "Hermes' Key of Gaia",
+    "id": 40812
+  },
+  "40813": {
+    "name": "Hermes' Key Fragment",
+    "id": 40813
+  },
+  "40838": {
+    "name": "Succubus' Key of Gaia",
+    "id": 40838
+  },
+  "40839": {
+    "name": "Succubus' Key Fragment",
+    "id": 40839
+  },
+  "40851": {
+    "name": "Cerberus' Key of Gaia",
+    "id": 40851
+  },
+  "40852": {
+    "name": "Cerberus' Key Fragment",
+    "id": 40852
+  },
+  "40877": {
+    "name": "Idun's Key of Gaia",
+    "id": 40877
+  },
+  "40878": {
+    "name": "Idun's Key Fragment",
+    "id": 40878
+  },
+  "40886": {
+    "name": "Nidhogg's Key of Gaia",
+    "id": 40886
+  },
+  "40887": {
+    "name": "Nidhogg's Key Fragment",
+    "id": 40887
+  },
+  "40888": {
+    "name": "Santa Tyr's Key of Gaia",
+    "id": 40888
+  },
+  "40889": {
+    "name": "Santa Tyr's Key Fragment",
+    "id": 40889
+  },
+  "40890": {
+    "name": "Santa Ayako's Key of Gaia",
+    "id": 40890
+  },
+  "40891": {
+    "name": "Santa Ayako's Key Fragment",
+    "id": 40891
+  },
+  "40892": {
+    "name": "Qingniao's Key of Gaia",
+    "id": 40892
+  },
+  "40893": {
+    "name": "Qingniao's Key Fragment",
+    "id": 40893
+  },
+  "40895": {
+    "name": "Festival Muramasa's Key of Gaia",
+    "id": 40895
+  },
+  "40896": {
+    "name": "Festival Muramasa's Key Fragment",
+    "id": 40896
+  },
+  "40908": {
+    "name": "Elizabeth's Key of Gaia",
+    "id": 40908
+  },
+  "40909": {
+    "name": "Elizabeth's Key Fragment",
+    "id": 40909
+  },
+  "40917": {
+    "name": "Seiryuu's Key of Gaia",
+    "id": 40917
+  },
+  "40918": {
+    "name": "Seiryuu's Key Fragment",
+    "id": 40918
+  },
+  "40921": {
+    "name": "Aoandon's Key of Gaia",
+    "id": 40921
+  },
+  "40922": {
+    "name": "Aoandon's Key of Gaia Fragment",
+    "id": 40922
+  },
+  "40929": {
+    "name": "Sif's Key of Gaia",
+    "id": 40929
+  },
+  "40930": {
+    "name": "Sif's Key Fragment",
+    "id": 40930
+  },
+  "40931": {
+    "name": "Ares' Key of Gaia",
+    "id": 40931
+  },
+  "40932": {
+    "name": "Ares' Key Fragment",
+    "id": 40932
+  },
+  "40933": {
+    "name": "Summer Alucard's Key of Gaia",
+    "id": 40933
+  },
+  "40934": {
+    "name": "Summer Alucard's Key Fragment",
+    "id": 40934
+  },
+  "40935": {
+    "name": "Summer Nidhogg's Key of Gaia",
+    "id": 40935
+  },
+  "40936": {
+    "name": "Summer Nidhogg's Key Fragment",
+    "id": 40936
+  },
+  "40947": {
+    "name": "Tsukuyomi's Key of Gaia",
+    "id": 40947
+  },
+  "40948": {
+    "name": "Tsukuyomi's Key Fragment",
+    "id": 40948
+  },
+  "40955": {
+    "name": "Ullr's Key of Gaia",
+    "id": 40955
+  },
+  "40956": {
+    "name": "Ullr's Key Fragment",
+    "id": 40956
+  },
+  "40984": {
+    "name": "Halloween Zashi's Key of Gaia",
+    "id": 40984
+  },
+  "40985": {
+    "name": "Halloween Zashi's Key Fragment",
+    "id": 40985
+  },
+  "41001": {
+    "name": "Sakuya-hime's Key of Gaia",
+    "id": 41001
+  },
+  "41002": {
+    "name": "Sakuya-hime's Key Fragment",
+    "id": 41002
+  },
+  "41004": {
+    "name": "Santa Lumikki's Key of Gaia",
+    "id": 41004
+  },
+  "41005": {
+    "name": "Santa Lumikki's Key Fragment",
+    "id": 41005
+  },
+  "41006": {
+    "name": "Santa Alice's Key of Gaia",
+    "id": 41006
+  },
+  "41007": {
+    "name": "Santa Alice's Key Fragment",
+    "id": 41007
+  },
+  "41025": {
+    "name": "Andrea's Key of Gaia",
+    "id": 41025
+  },
+  "41026": {
+    "name": "Andrea's Key Fragment",
+    "id": 41026
+  },
+  "41027": {
+    "name": "Iwanaga-hime's Key of Gaia",
+    "id": 41027
+  },
+  "41028": {
+    "name": "Iwanaga-hime's Key Fragment",
+    "id": 41028
+  },
+  "41045": {
+    "name": "Urd's Key of Gaia",
+    "id": 41045
+  },
+  "41046": {
+    "name": "Urd's Key Fragment",
+    "id": 41046
+  },
+  "41047": {
+    "name": "Skuld's Key of Gaia",
+    "id": 41047
+  },
+  "41048": {
+    "name": "Skuld's Key Fragment",
+    "id": 41048
+  },
+  "41051": {
+    "name": "Kingyo-hime's Key of Gaia",
+    "id": 41051
+  },
+  "41052": {
+    "name": "Kingyo-hime's Key Fragment",
+    "id": 41052
+  },
+  "41056": {
+    "name": "Persephone's Key of Gaia",
+    "id": 41056
+  },
+  "41057": {
+    "name": "Persephone's Key Fragment",
+    "id": 41057
+  },
+  "41060": {
+    "name": "Summer Michaela's Key of Gaia",
+    "id": 41060
+  },
+  "41061": {
+    "name": "Summer Michaela's Key Fragment",
+    "id": 41061
+  },
+  "41069": {
+    "name": "Otohime's Key of Gaia",
+    "id": 41069
+  },
+  "41070": {
+    "name": "Otohime's Key Fragment",
+    "id": 41070
+  },
+  "41099": {
+    "name": "Bastet's Key of Gaia",
+    "id": 41099
+  },
+  "41100": {
+    "name": "Bastet's Key Fragment",
+    "id": 41100
+  },
+  "41115": {
+    "name": "Halloween Zephyrine's Key of Gaia",
+    "id": 41115
+  },
+  "41116": {
+    "name": "Halloween Zephyrine's Key Fragment",
+    "id": 41116
+  },
+  "41411": {
+    "name": "Orochi's Key of Gaia",
+    "id": 41411
+  },
+  "41412": {
+    "name": "Orochi's Key Fragment",
+    "id": 41412
+  },
+  "41426": {
+    "name": "Santa Muse's Key of Gaia",
+    "id": 41426
+  },
+  "41427": {
+    "name": "Santa Muse's Key Fragment",
+    "id": 41427
+  },
+  "41433": {
+    "name": "Santa Amaterasu's Key of Gaia",
+    "id": 41433
+  },
+  "41434": {
+    "name": "Santa Amaterasu's Key Fragment",
+    "id": 41434
+  },
+  "41437": {
+    "name": "Festival Succubus' Key of Gaia",
+    "id": 41437
+  },
+  "41438": {
+    "name": "Festival Succubus' Key Fragment",
+    "id": 41438
+  },
+  "41446": {
+    "name": "Thumbelina's Key of Gaia",
+    "id": 41446
+  },
+  "41447": {
+    "name": "Thumbelina's Key Fragment",
+    "id": 41447
+  },
+  "41450": {
+    "name": "Genbu's Key of Gaia",
+    "id": 41450
+  },
+  "41451": {
+    "name": "Genbu's Key Fragment",
+    "id": 41451
+  },
+  "41454": {
+    "name": "Raphael's Key of Gaia",
+    "id": 41454
+  },
+  "41455": {
+    "name": "Raphael's Key Fragment",
+    "id": 41455
+  },
+  "41467": {
+    "name": "Inaba's Key of Gaia",
+    "id": 41467
+  },
+  "41468": {
+    "name": "Inaba's Key Fragment",
+    "id": 41468
+  },
+  "41476": {
+    "name": "Salome's Key of Gaia",
+    "id": 41476
+  },
+  "41477": {
+    "name": "Salome's Key Fragment",
+    "id": 41477
+  },
+  "41482": {
+    "name": "Summer Persephone's Key of Gaia",
+    "id": 41482
+  },
+  "41483": {
+    "name": "Summer Persephone's Key Fragment",
+    "id": 41483
+  },
+  "41491": {
+    "name": "Abe no Seimei's Key of Gaia",
+    "id": 41491
+  },
+  "41492": {
+    "name": "Abe no Seimei's Key Fragment",
+    "id": 41492
+  },
+  "41507": {
+    "name": "Rachel's Key of Gaia",
+    "id": 41507
+  },
+  "41508": {
+    "name": "Rachel's Key Fragment",
+    "id": 41508
+  },
+  "41513": {
+    "name": "Nekomata's Key of Gaia",
+    "id": 41513
+  },
+  "41514": {
+    "name": "Nekomata's Key Fragment",
+    "id": 41514
+  },
+  "41520": {
+    "name": "Queen of Hearts' Key of Gaia",
+    "id": 41520
+  },
+  "41521": {
+    "name": "Queen of Hearts' Key Fragment",
+    "id": 41521
+  },
+  "41532": {
+    "name": "Santa Raphael's Key of Gaia",
+    "id": 41532
+  },
+  "41533": {
+    "name": "Santa Raphael's Key Fragment",
+    "id": 41533
+  },
+  "41535": {
+    "name": "Santa Idun's Key of Gaia",
+    "id": 41535
+  },
+  "41536": {
+    "name": "Santa Idun's Key Fragment",
+    "id": 41536
+  },
+  "41549": {
+    "name": "Hestia's Key of Gaia",
+    "id": 41549
+  },
+  "41550": {
+    "name": "Hestia's Key Fragment",
+    "id": 41550
+  },
+  "41553": {
+    "name": "Festival Elizabeth's Key of Gaia",
+    "id": 41553
+  },
+  "41554": {
+    "name": "Festival Elizabeth's Key Fragment",
+    "id": 41554
+  },
+  "41564": {
+    "name": "Little Red Riding Hood's Key of Gaia",
+    "id": 41564
+  },
+  "41565": {
+    "name": "Little Red Riding Hood's Key Fragment",
+    "id": 41565
+  },
+  "41623": {
+    "name": "Komainu's Key of Gaia",
+    "id": 41623
+  },
+  "41624": {
+    "name": "Komainu's Key Fragment",
+    "id": 41624
+  },
+  "41627": {
+    "name": "Percival's Key of Gaia",
+    "id": 41627
+  },
+  "41628": {
+    "name": "Percival's Key Fragment",
+    "id": 41628
+  },
+  "41633": {
+    "name": "Siren's Key of Gaia",
+    "id": 41633
+  },
+  "41634": {
+    "name": "Siren's Key Fragment",
+    "id": 41634
+  },
+  "41640": {
+    "name": "Summer Iwanaga-hime's Key of Gaia",
+    "id": 41640
+  },
+  "41641": {
+    "name": "Summer Iwanaga-hime's Key Fragment",
+    "id": 41641
+  },
+  "41653": {
+    "name": "Frigga's Key of Gaia",
+    "id": 41653
+  },
+  "41654": {
+    "name": "Frigga's Key Fragment",
+    "id": 41654
+  },
+  "41677": {
+    "name": "H鐰ur's Key of Gaia",
+    "id": 41677
+  },
+  "41678": {
+    "name": "H鐰ur's Key Fragment",
+    "id": 41678
+  },
+  "41698": {
+    "name": "Shutendoji's Key of Gaia",
+    "id": 41698
+  },
+  "41699": {
+    "name": "Shutendoji's Key Fragment",
+    "id": 41699
+  },
+  "41702": {
+    "name": "Xiaoqiao's Key of Gaia",
+    "id": 41702
+  },
+  "41703": {
+    "name": "Xiaoqiao's Key Fragment",
+    "id": 41703
+  },
+  "41712": {
+    "name": "Santa Komainu's Key of Gaia",
+    "id": 41712
+  },
+  "41713": {
+    "name": "Santa Komainu's Key Fragment",
+    "id": 41713
+  },
+  "41714": {
+    "name": "Santa Kingyo-hime's Key of Gaia",
+    "id": 41714
+  },
+  "41715": {
+    "name": "Santa Kingyo-hime's Key Fragment",
+    "id": 41715
+  },
+  "41720": {
+    "name": "New Year's Hestia's Gaia Key",
+    "id": 41720
+  },
+  "41721": {
+    "name": "New Year's Hestia Key Fragments",
+    "id": 41721
+  },
+  "41762": {
+    "name": "Miketsukami's Gaia Key",
+    "id": 41762
+  },
+  "41763": {
+    "name": "Miketsukami's Key Fragments",
+    "id": 41763
+  },
+  "41766": {
+    "name": "Aladdin's Gaia Key",
+    "id": 41766
+  },
+  "41767": {
+    "name": "Aladdin's Key Fragments",
+    "id": 41767
+  },
+  "41771": {
+    "name": "Gaia Key of Princess Kaguya",
+    "id": 41771
+  },
+  "41772": {
+    "name": "Key Fragments of Princess Kaguya",
+    "id": 41772
+  },
+  "41793": {
+    "name": "Eris's Key of Gaia",
+    "id": 41793
+  },
+  "41794": {
+    "name": "Key Fragments of Eris",
+    "id": 41794
+  },
+  "41797": {
+    "name": "Da Qiao's Key of Gaia",
+    "id": 41797
+  },
+  "41798": {
+    "name": "Da Qiao's KeyFragments",
+    "id": 41798
+  },
+  "41805": {
+    "name": "Summer Shutendoji's Key of Gaia",
+    "id": 41805
+  },
+  "41806": {
+    "name": "Summer Shutendoji's Key Fragment",
+    "id": 41806
+  },
+  "41821": {
+    "name": "Key of Gaia's Gaia",
+    "id": 41821
+  },
+  "41822": {
+    "name": "Key Fragments of Gaia",
+    "id": 41822
+  },
+  "41826": {
+    "name": "Key of Gaia for Jormungand",
+    "id": 41826
+  },
+  "41827": {
+    "name": "Jormungand's Key Fragments",
+    "id": 41827
+  },
+  "41830": {
+    "name": "Key of Gaia for Anubis",
+    "id": 41830
+  },
+  "41831": {
+    "name": "Anubis's Key Fragment",
+    "id": 41831
+  },
+  "41835": {
+    "name": "Thor's Key of Gaia",
+    "id": 41835
+  },
+  "41836": {
+    "name": "Thor's Key Fragment",
+    "id": 41836
+  },
+  "41839": {
+    "name": "Christmas Andrea's Key of Gaia",
+    "id": 41839
+  },
+  "41840": {
+    "name": "Christmas Andrea's Key Fragment",
+    "id": 41840
+  },
+  "41841": {
+    "name": "Key of Gaia for Christmas Sakuya-hime",
+    "id": 41841
+  },
+  "41842": {
+    "name": "Key Fragments of Christmas Sakuya-hime",
+    "id": 41842
+  },
+  "41853": {
+    "name": "Key of Gaia for the New Year Queen of Hearts",
+    "id": 41853
+  },
+  "41854": {
+    "name": "Key Fragments of the New Year Queen of Hearts",
+    "id": 41854
+  },
+  "41889": {
+    "name": "Zhang Fei's Key of Gaia",
+    "id": 41889
+  },
+  "41890": {
+    "name": "Zhang Fei's Key Fragment",
+    "id": 41890
+  },
+  "41894": {
+    "name": "Odin's Key of Gaia",
+    "id": 41894
+  },
+  "41895": {
+    "name": "Odin's Key Fragment",
+    "id": 41895
+  },
+  "41898": {
+    "name": "Dorothy's Key of Gaia",
+    "id": 41898
+  },
+  "41899": {
+    "name": "Dorothy's Key Fragment",
+    "id": 41899
+  },
+  "41902": {
+    "name": "Poseidon's Key of Gaia",
+    "id": 41902
+  },
+  "41903": {
+    "name": "Poseidon's Key Fragment",
+    "id": 41903
+  },
+  "41906": {
+    "name": "Liu Bei's Key of Gaia",
+    "id": 41906
+  },
+  "41907": {
+    "name": "Liu Bei's Key Fragment",
+    "id": 41907
+  },
+  "41910": {
+    "name": "Key of Gaia of Summer Rachel",
+    "id": 41910
+  },
+  "41911": {
+    "name": "Key Fragment of Summer Rachel",
+    "id": 41911
+  },
+  "41920": {
+    "name": "Aurora's Key of Gaia",
+    "id": 41920
+  },
+  "41921": {
+    "name": "Aurora's Key Fragment",
+    "id": 41921
+  },
+  "41924": {
+    "name": "Key of Gaia of Prometheus",
+    "id": 41924
+  },
+  "41925": {
+    "name": "Prometheus's Key Fragment",
+    "id": 41925
+  },
+  "41928": {
+    "name": "Key of Gaia of Beelzebub",
+    "id": 41928
+  },
+  "41929": {
+    "name": "Beelzebub's Key Fragment",
+    "id": 41929
+  },
+  "41932": {
+    "name": "Key of Gaia of Guan Yu",
+    "id": 41932
+  },
+  "41933": {
+    "name": "Key Fragment of Guan Yu",
+    "id": 41933
+  },
+  "41945": {
+    "name": "Key of Gaia for Christmas Little Red Riding Hood",
+    "id": 41945
+  },
+  "41946": {
+    "name": "Key Fragment of Christmas Little Red Riding Hood",
+    "id": 41946
+  },
+  "41947": {
+    "name": "Key of Gaia of Hachijoheme",
+    "id": 41947
+  },
+  "41948": {
+    "name": "Hachijoheme's Key Fragment",
+    "id": 41948
+  },
+  "41952": {
+    "name": "Key of Gaia for New Year Anubis",
+    "id": 41952
+  },
+  "41953": {
+    "name": "New Year Anubis Key Fragment",
+    "id": 41953
+  },
+  "41954": {
+    "name": "Key of Gaia of Ganlin",
+    "id": 41954
+  },
+  "41955": {
+    "name": "Ganlin's Key Fragment",
+    "id": 41955
+  },
+  "41958": {
+    "name": "Key of Gaia of Shamal",
+    "id": 41958
+  },
+  "41959": {
+    "name": "Shamal's Key Fragment",
+    "id": 41959
+  },
+  "41974": {
+    "name": "Cinderella's Key of Gaia",
+    "id": 41974
+  },
+  "41975": {
+    "name": "Cinderella's Key Fragment",
+    "id": 41975
+  },
+  "41982": {
+    "name": "Key of Gaia of Bride Inaba",
+    "id": 41982
+  },
+  "41983": {
+    "name": "Key Fragment of Bride Inaba",
+    "id": 41983
+  },
+  "41984": {
+    "name": "Summer Guan Yu's Key of Gaia",
+    "id": 41984
+  },
+  "41985": {
+    "name": "Summer Guan Yu's Key Fragment",
+    "id": 41985
+  }
+}

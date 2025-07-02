@@ -12,9 +12,9 @@ declare module 'vue' {
     BAccordionItem: typeof import('bootstrap-vue-next/components/BAccordion')['BAccordionItem']
     BButton: typeof import('bootstrap-vue-next/components/BButton')['BButton']
     BCard: typeof import('bootstrap-vue-next/components/BCard')['BCard']
-    BCardBody: typeof import('bootstrap-vue-next/components/BCard')['BCardBody']
-    BCardHeader: typeof import('bootstrap-vue-next/components/BCard')['BCardHeader']
     BContainer: typeof import('bootstrap-vue-next/components/BContainer')['BContainer']
+    BDropdown: typeof import('bootstrap-vue-next/components/BDropdown')['BDropdown']
+    BDropdownItem: typeof import('bootstrap-vue-next/components/BDropdown')['BDropdownItem']
     BForm: typeof import('bootstrap-vue-next/components/BForm')['BForm']
     BFormCheckbox: typeof import('bootstrap-vue-next/components/BFormCheckbox')['BFormCheckbox']
     BFormGroup: typeof import('bootstrap-vue-next/components/BFormGroup')['BFormGroup']
@@ -26,6 +26,7 @@ declare module 'vue' {
     EidolonHeader: typeof import('./src/components/EidolonHeader.vue')['default']
     EidolonList: typeof import('./src/components/EidolonList.vue')['default']
     EidolonListHeader: typeof import('./src/components/EidolonListHeader.vue')['default']
+    FilterBar: typeof import('./src/components/FilterBar.vue')['default']
     ImageBrowser: typeof import('./src/components/ImageBrowser.vue')['default']
     Item: typeof import('./src/components/Item.vue')['default']
     ItemGroup: typeof import('./src/components/ItemGroup.vue')['default']
@@ -34,5 +35,6 @@ declare module 'vue' {
     NewEidolon: typeof import('./src/components/NewEidolon.vue')['default']
     NewItemForm: typeof import('./src/components/NewItemForm.vue')['default']
     StarLevel: typeof import('./src/components/StarLevel.vue')['default']
+    TrackerSettings: typeof import('./src/components/TrackerSettings.vue')['default']
   }
 }

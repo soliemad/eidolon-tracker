@@ -3,10 +3,21 @@ import { ref, watch } from 'vue';
 const eidolonStorageMap = new Map();
 
 export const useLocalStorage = (eidolonObject) => {
-    const storageKey = `eidolon-data-${eidolonObject.name}`;
-    if (eidolonStorageMap.has(storageKey)) {
-        return { eidolonStorage: eidolonStorageMap.get(storageKey) };
+    const newKey = `eidolon-data-${eidolonObject.id}`;
+    const oldKey = `eidolon-data-${eidolonObject.name}`;
+
+    // Migration: Check for old data and move it to the new key
+    if (localStorage.getItem(oldKey)) {
+        const oldData = localStorage.getItem(oldKey);
+        localStorage.setItem(newKey, oldData);
+        localStorage.removeItem(oldKey);
+        console.log(`Migrated data for ${eidolonObject.name} from ${oldKey} to ${newKey}`);
     }
+
+    if (eidolonStorageMap.has(newKey)) {
+        return { eidolonStorage: eidolonStorageMap.get(newKey) };
+    }
+
     const storage = ref({
         "owned": false,
         "nickname": "",
@@ -14,8 +25,9 @@ export const useLocalStorage = (eidolonObject) => {
         "materials": [],
         "wishes": []
     });
-    if (localStorage.getItem(storageKey)) {
-        storage.value = JSON.parse(localStorage.getItem(storageKey));
+
+    if (localStorage.getItem(newKey)) {
+        storage.value = JSON.parse(localStorage.getItem(newKey));
     } else {
         eidolonObject.materials.forEach((material, index) => {
             storage.value.materials[index] = createEmptyMaterial(material.items.length);
@@ -24,25 +36,55 @@ export const useLocalStorage = (eidolonObject) => {
             storage.value.wishes[index] = createEmptyWish(wish.items.length);
         });
     }
+
     watch(storage, () => {
-        localStorage.setItem(storageKey, JSON.stringify(storage.value));
+        localStorage.setItem(newKey, JSON.stringify(storage.value));
     }, { deep: true });
 
-    eidolonStorageMap.set(storageKey, storage);
+    eidolonStorageMap.set(newKey, storage);
     return { eidolonStorage: storage };
 };
-const createEmpyuItem = () => {
+
+export const exportSavedData = () => {
+    const data = {};
+    for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key.startsWith('eidolon-data-')) {
+            data[key] = JSON.parse(localStorage.getItem(key));
+        }
+    }
+    return JSON.stringify(data, null, 2);
+};
+
+export const importSaveData = (jsonString) => {
+    try {
+        const data = JSON.parse(jsonString);
+        for (const key in data) {
+            if (key.startsWith('eidolon-data-')) {
+                localStorage.setItem(key, JSON.stringify(data[key]));
+            }
+        }
+        return true;
+    } catch (error) {
+        console.error("Error importing data:", error);
+        return false;
+    }
+};
+
+const createEmptyItem = () => {
     return {
         "selected": false
     };
 };
+
 const createEmptyMaterial = (itemCount) => {
     return {
-        "items": new Array(itemCount).fill(createEmpyuItem()),
+        "items": new Array(itemCount).fill(null).map(() => createEmptyItem()),
     };
 };
+
 const createEmptyWish = (itemCount) => {
     return {
-        "items": new Array(itemCount).fill(createEmpyuItem()),
+        "items": new Array(itemCount).fill(null).map(() => createEmptyItem()),
     };
 };

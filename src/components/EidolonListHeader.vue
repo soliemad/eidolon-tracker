@@ -2,6 +2,7 @@
 import { computed } from "vue";
 import { useEidolonTools } from "@/composables/useEidolonTools";
 import { useLocalStorage } from "../composables/useLocalStorage";
+import FilterBar from "./FilterBar.vue";
 const { isEidolonComplete } = useEidolonTools();
 defineEmits(["add"]);
 const props = defineProps({
@@ -19,19 +20,24 @@ const nameFilter = defineModel("name-filter", {
   type: String,
   required: true,
 });
+const starLevelFilter = defineModel("star-level-filter", {
+  type: Number,
+  required: true,
+  default: 0,
+});
 
 const ownedCount = computed(() => {
   return props.eidolons.filter((eidolon) => {
     const { eidolonStorage } = useLocalStorage(eidolon);
 
-    return eidolonStorage.value.owned
+    return eidolonStorage.value.owned;
   }).length;
 });
 const completedCount = computed(() => {
   return props.eidolons.filter((eidolon) => {
     const { eidolonStorage } = useLocalStorage(eidolon);
-    
-    isEidolonComplete(eidolonStorage.value)
+
+    return isEidolonComplete(eidolonStorage.value);
   }).length;
 });
 </script>
@@ -40,48 +46,16 @@ const completedCount = computed(() => {
     <template #header>
       <div class="d-flex flex-row align-items-center">
         <div style="min-width: 130px"></div>
-        <h1 class="text-center flex-grow-1 text-primary">Aura Kingdom Eidolon Tracker</h1>
-        <BButton variant="primary" @click="$emit('add')">+ Add Eidolon</BButton>
+        <h1 class="text-center flex-grow-1 text-primary">
+          Aura Kingdom Eidolon Tracker
+        </h1>
+        <BButton variant="primary" @click="$emit('add')">
+          <font-awesome-icon :icon="['fas', 'gear']" />
+        </BButton>
       </div>
     </template>
 
-    <BFormInput
-      type="text"
-      id="search"
-      placeholder="Search Eidolons by name..."
-      v-model="nameFilter"
-      lazy
-    />
-
-    <div
-      class="filters d-flex flex-row flex-nowrap justify-content-around mt-2"
-    >
-      <BButton
-        :variant="ownedFilter === 'all' ? 'primary' : 'outline-primary'"
-        @click="ownedFilter = 'all'"
-        >All</BButton
-      >
-      <BButton
-        :variant="ownedFilter === 'owned' ? 'primary' : 'outline-primary'"
-        @click="ownedFilter = 'owned'"
-        >Owned</BButton
-      >
-      <BButton
-        :variant="ownedFilter === 'unowned' ? 'primary' : 'outline-primary'"
-        @click="ownedFilter = 'unowned'"
-        >Unowned</BButton
-      >
-      <BButton
-        :variant="ownedFilter === 'completed' ? 'primary' : 'outline-primary'"
-        @click="ownedFilter = 'completed'"
-        >Completed</BButton
-      >
-      <BButton
-        :variant="ownedFilter === 'notcompleted' ? 'primary' : 'outline-primary'"
-        @click="ownedFilter = 'notcompleted'"
-        >Not Completed</BButton
-      >
-    </div>
+    <FilterBar v-model="ownedFilter" v-model:name-filter="nameFilter" v-model:star-level-filter="starLevelFilter"/>
 
     <div class="d-flex flex-row flex-nowrap justify-content-around fs-5">
       <span> Eidolons Owned: {{ ownedCount }} / {{ eidolons.length }} </span>

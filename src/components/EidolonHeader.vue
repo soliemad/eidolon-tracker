@@ -39,7 +39,7 @@ const eidolonCompleted = computed(() => {
         />
         
       <a  v-else :href="data.url" target="_blank" rel="noopener noreferrer">
-        <img  :src="data.thumbnail" />
+        <img  :src="`image/eidolons/${data.id}.png`" />
       </a>
       <BFormInput
         v-if="editMode"
